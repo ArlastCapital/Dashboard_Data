@@ -1,0 +1,16 @@
+conversion_path,tour_count,avg_days_to_event,touchpoints
+"[""Apartments.com""]",7,8.2,1.0
+"[""Drive By""]",6,0.0,1.0
+"[""Resident Referral""]",3,0.0,1.0
+"[""Website""]",2,1.2,1.0
+"[""Google""]",2,0.0,1.0
+"[""Drive By"", ""Drive By""]",2,0.0,2.0
+"[""Google + Website"", ""Apartments.com""]",1,0.1,3.0
+"[""Google + Website""]",1,1.9,2.0
+"[""Apartment Ratings + Website""]",1,1.4,2.0
+"[""Google + Website"", ""Google + Website""]",1,5.4,4.0
+"[""Apartment List + Website"", ""Website""]",1,2.1,3.0
+"[""Website"", ""RentVision Website""]",1,5.1,2.0
+"[""Google + Website"", ""Apartment List""]",1,3.0,3.0
+"[""Apartments.com + Website""]",1,1.0,2.0
+"[""Locator Service + Website""]",1,1.9,2.0

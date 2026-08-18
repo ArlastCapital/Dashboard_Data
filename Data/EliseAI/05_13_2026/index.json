@@ -1,0 +1,11 @@
+{
+  "_comment": "Optional per-week file map. The parser falls back to the inaugural-drop filenames if this file is absent. When uploading a new week, copy this file into the new dated folder and update the CSV names to match the actual files dropped.",
+  "csv": {
+    "metricsBuilding":  "metrics-building-2026-05-13.csv",
+    "agentReporting":   "agent_reporting_user_bd6fd538-63e1-4bae-a00b-8d3a4a2a80c3_2026-01-01_2026-05-13_ff084797a1f5423764e5951d0866c59d.csv",
+    "lostLeads":        "lost_leads_user_bd6fd538-63e1-4bae-a00b-8d3a4a2a80c3_2026-01-01T06_00_00.000Z_2026-05-14T04_59_59.999Z_18f8a76e159408d83ca59c5bafbf53a0.csv",
+    "attribution":      "multi_touch_attribution_2026-05-13T21-23-09.csv",
+    "spendReport":      "spend_report_smart_ai_2026-05-13T21-23-36.csv",
+    "commissionReport": "commission_report_agentAndProperty_$2026-05-13.csv"
+  }
+}

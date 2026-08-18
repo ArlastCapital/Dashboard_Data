@@ -1,0 +1,48 @@
+Category,Metric,Value
+Filters,Month,2026-08-01
+Performance,Current Month Charges $ - Current Period,"$752,015.17"
+Performance,Current Month Delinquency $(%) - Current Period,"$99,707.29"
+Performance,Days to Collect (80%) - Current Period,3
+Performance,Collected on All Open Charges $ - Current Period,"$655,067.92"
+Performance,Delinquency for All Open Charges $(%) - Current Period,"$160,252.86"
+Performance,Current Month Charges $ - YoY,—
+Performance,Current Month Delinquency $(%) - YoY,—
+Performance,Days to Collect (80%) - YoY,
+Performance,Collected on All Open Charges $ - YoY,—
+Performance,Delinquency for All Open Charges $(%) - YoY,—
+AI Performance,AI Collected $ - Total,"$68,310"
+AI Performance,AI Calls Collected $,"$4,797"
+AI Performance,AI Messages Sent - Total,452
+AI Performance,Email Messages - Count,190
+AI Performance,SMS Messages - Count,262
+AI Performance,AI Calls Made,0
+AI Performance,Hours Saved,38
+Engagement,Email Engagement Rate (last 30 days),11%
+Engagement,SMS Engagement Rate (last 30 days),35%
+Delinquent Leases Deep Dive,<1x Rent Outstanding - Count,49
+Delinquent Leases Deep Dive,<1x Rent Outstanding - Amount,"$14,938"
+Delinquent Leases Deep Dive,1x Rent Outstanding - Count,51
+Delinquent Leases Deep Dive,1x Rent Outstanding - Amount,"$70,591"
+Delinquent Leases Deep Dive,2x Rent Outstanding - Count,6
+Delinquent Leases Deep Dive,2x Rent Outstanding - Amount,"$17,020"
+Delinquent Leases Deep Dive,≥3x Rent Outstanding - Count,6
+Delinquent Leases Deep Dive,≥3x Rent Outstanding - Amount,"$57,703"
+Delinquent Leases Deep Dive,≥3x MoM Change - Count,2
+Delinquent Leases Deep Dive,≥3x MoM Change - Amount,"$10,168"
+Residents Waiting for Agents' Response,Number of Open Tasks,4
+Residents Waiting for Agents' Response,$ Associated with Open Tasks,$795
+Residents Waiting for Agents' Response,Age of Oldest Task (Days),2
+Residents Needing Agents' Attention,Opted Out Residents Across All Channels - Count,0
+Residents Needing Agents' Attention,Opted Out Residents Across All Channels - Amount,$0
+Residents Needing Agents' Attention,Residents With Invalid Contact Info - Count,1
+Residents Needing Agents' Attention,Residents With Invalid Contact Info - Amount,"$1,395"
+Residents Needing Agents' Attention,Unresponsive Residents - Count,73
+Residents Needing Agents' Attention,Unresponsive Residents - Amount,"$98,461"
+Residents Needing Agents' Attention,Residents on Do Not Contact List - Count,1
+Residents Needing Agents' Attention,Residents on Do Not Contact List - Amount,$732
+Residents Needing Agents' Attention,Snoozed Residents - Count,0
+Residents Needing Agents' Attention,Snoozed Residents - Amount,$0
+Residents Needing Agents' Attention,Promise to Pay - Count,2
+Residents Needing Agents' Attention,Promise to Pay - Amount,"$1,317"
+Residents Needing Agents' Attention,Payment Plan - Count,0
+Residents Needing Agents' Attention,Payment Plan - Amount,$0

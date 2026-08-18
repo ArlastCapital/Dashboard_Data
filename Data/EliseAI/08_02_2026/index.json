@@ -1,0 +1,13 @@
+{
+  "_comment": "Per-week file map for the 08_02_2026 drop. 'grid' overrides the UTF-16 tab-separated 'Metrics by ...' exports (delivered this week as .csv instead of .xlsx). 'csv' maps the date/UUID-named report CSVs. Files not present this week (agentReporting, spendReport, commissionReport, handoff) are omitted.",
+  "grid": {
+    "building": "1. Metrics by Building All Metrics.csv",
+    "channels": "1. Metrics by Channel All Metrics.csv",
+    "voice": "Metrics by Building, Source.csv"
+  },
+  "csv": {
+    "metricsBuilding": "metrics-building-2026-08-05.csv",
+    "lostLeads": "lost_leads_user_bd6fd538-63e1-4bae-a00b-8d3a4a2a80c3_2026-07-27T05_00_00.000Z_2026-08-03T04_59_59.999Z_04d9d745746c7afb67b4e7c4946585a6.csv",
+    "attribution": "multi_touch_attribution_2026-08-05T18-37-58.csv"
+  }
+}

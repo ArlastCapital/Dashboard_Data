@@ -1,0 +1,8 @@
+{
+  "_comment": "Quarterly Google/Apartment Ratings review drops. Add a new dated folder under public/Reviews/ then list it here. Folder name format: MM_DD_YYYY (snapshot date).",
+  "snapshots": [
+    "05_12_2026",
+    "07_14_2026",
+    "08_12_2026"
+  ]
+}

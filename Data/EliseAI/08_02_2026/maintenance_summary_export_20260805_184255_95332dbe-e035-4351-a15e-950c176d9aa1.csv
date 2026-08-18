@@ -1,0 +1,48 @@
+Metric,Value
+Total Work Orders Opened,3584
+AI Work Orders Opened,740
+Outstanding Work Orders,1180
+Work Orders Completed,3240
+Completion Rate (%),90.4
+Completed Within 2 Days (%),45.59
+Median Time to Complete (Days),5.17
+Average Turn Time (Days),
+Median Turn Time (Days),
+Completed Turns,0
+Total Timesheet Hours,0
+Overtime Hours,0
+Technician Available Rate (%),
+Technician Utilization Rate (%),
+After Hours Calls Self Help,0
+% After Hours Calls Deescalated,29.66
+Active Residents Count,30927
+Engaged Residents Count,13816
+AI Submission Percentage (%),20.65
+Work Orders On Hold,1
+In-House Work Orders Completed,3240
+Average Completion Time (Days),7.36
+Min Completion Time (Days),0.000486
+Max Completion Time (Days),202.101053
+Total Technicians,0
+Technicians Clocked 3+ Days,0
+Technicians Clocked 3+ Days (%),0
+Voice Maintenance Calls Total,657
+After Hours Calls Total,236
+After Hours Calls Escalated,166
+After Hours Calls Work Order Submitted,38
+After Hours Calls Other Outcomes,32
+% After Hours Calls,35.92
+% After Hours Calls Escalated,70.34
+% After Hours Calls Work Order Submitted,16.1
+% After Hours Calls Self Help,0.0
+% After Hours Calls Other Outcomes,13.56
+Completed Same Day,977
+Completed 1-2 Days,500
+Completed 3-7 Days,924
+Completed Over 7 Days,836
+% Completed Same Day,30.15
+% Completed Over 7 Days,25.8
+AI Submitted via SMS,389
+AI Submitted via Email,42
+AI Submitted via Voice,278
+AI Submitted via Other,31

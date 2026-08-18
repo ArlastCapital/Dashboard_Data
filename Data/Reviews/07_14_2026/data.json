@@ -1,0 +1,1446 @@
+{
+  "snapshotDate": "2026-07-27",
+  "periodStart": "2026-01-03",
+  "periodEnd": "2026-07-26",
+  "summary": {
+    "totalReviews": 173,
+    "avgRating": 4.6,
+    "distribution": {
+      "1": 14,
+      "2": 3,
+      "3": 3,
+      "4": 4,
+      "5": 149
+    }
+  },
+  "sources": [
+    {
+      "name": "Google",
+      "rating": 4.6,
+      "count": 163
+    },
+    {
+      "name": "Apartment Ratings",
+      "rating": 3.5,
+      "count": 10
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Wynisha Hardin",
+      "date": "2026-07-26",
+      "rating": 1,
+      "source": "Google",
+      "text": "This place is awful. Maintenance doesn’t fix anything. They have a lot of cockroaches. My apartment is filled with mold and water damage. I’ve told them several times this dishwasher needs to be removed as it’s never worked and moldy. I used it one time and all of my wooden utensils were covered in mold. The tube peels quite frequently but all they do is paint over it and it does it again cause the mold just eats away at it. The mailboxes are always broken so get use to going down to the post office to get your mail. Parking here is a nightmare. The water is off EVERYDAY for several hours and they always claim theyre fixing it but if they stopped w/those half ass repairs it wouldn’t break everyday. The shady h4 towing company they use illegally tow your REGISTERED vehicles and the apartments do nothing about it as they get a cut of it. Save yourself the headache. Do not ever drink the water here and get some sort of filter for the shower. It smells awful and it’s a weird color. They also now charge all these fees that they don’t even honor. They charge you for credit builder yet don’t even report anything to the bureaus so that’s just extra money they pocket.",
+      "responded": true,
+      "escalated": true,
+      "response": "Hi Wynisha, we're sorry to hear about the moisture concerns, the pest issues, the water concerns, and the towing situation. Please contact us at (972) 895-7332 so we can address your concerns directly.",
+      "responseDate": "2026-07-26"
+    },
+    {
+      "author": "Calvin Robinson",
+      "date": "2026-07-26",
+      "rating": 5,
+      "source": "Google",
+      "text": "My name is calvin and i just to said thanks Nussly for everything you do for me and always take care for my family I really grateful with you because every time a have a issue in my apartment you always help me find the solution",
+      "responded": true,
+      "response": "Hi Calvin, thank you for the kind words about Nussly! We're glad she's always been there to help you and your family. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-26"
+    },
+    {
+      "author": "Imeh Akpan",
+      "date": "2026-07-23",
+      "rating": 5,
+      "source": "Google",
+      "text": "Frank maintaining did a good job\nHe has fix my air-condition good in apartment 405",
+      "responded": true,
+      "response": "Hi Imeh, thank you for the kind words about Frank! We're glad he got your AC working so well. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-23"
+    },
+    {
+      "author": "pius ajayi",
+      "date": "2026-07-21",
+      "rating": 5,
+      "source": "Google",
+      "text": "Frank is a good maintenance guy . He did the repair smartly and perfectly. I'm satisfied with his job .",
+      "responded": true,
+      "response": "Hi Pius, thank you for the kind words about Frank! We're glad he did such a great job. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-23"
+    },
+    {
+      "author": "Beaty fanny",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Daphne she gave me an excellent service",
+      "responded": true,
+      "response": "Hi, thank you for the kind words about Daphne! We're glad she provided such excellent service. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Leonel Rodriguez",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Miss Daphney was very kind and helped me fill out my application for my apartment transfer",
+      "responded": true,
+      "response": "Hi Leonel, thank you so much for your kind words about Daphney! We're glad to hear you helped her so much with her transfer. Please feel free to contact us at (972) 895-7332 if there's anything else we can help you with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Miguel Banuelos",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Frank from maintenance was extremely kind, professional, and helpful. He took the time to explain the problems and the solutions in a way that was easy to understand. I am very happy with the service he provided.",
+      "responded": true,
+      "response": "Hi Miguel, thank you for the kind words about Frank! We're glad he was so clear, professional, and helpful. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "John Mejia",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "I don't live on this property, but my mom does, and I just want to thank Miss Nussly because my mom can't stop talking about her, how she helps her, and how kind she's been to my mom. Thank you, Nussly!",
+      "responded": true,
+      "response": "Hi John, thank you for the kind words about Nussly! We're so glad she's made such a positive impression on your mom. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Yanuell Mejia",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Very beautiful property and Miss Nussly's service is the best. Thank you for always listening to the issues regarding my apartment and making me feel comfortable living in this beautiful property.",
+      "responded": true,
+      "response": "Hi Yanuell, thank you so much for your kind words about Nussly! We're glad to hear that they always listen to you and make you feel comfortable. Please feel free to contact us at (972) 895-7332 if there's anything we can help you with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Digna González",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly has a beautiful personality and incredible kindness; she is a wonderful person. I highly recommend the property, and the maintenance staff are excellent.",
+      "responded": true,
+      "response": "Hello Digna, thank you so much for your kind words about Nussly and our maintenance team! We're glad to hear you had such a positive experience. Please feel free to contact us at (972) 895-7332 if there's anything we can help you with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Veronica Baker",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Daphney & Nussly\nTo both of them they did a really good job\nExtension of there hospitally Nussly since I been here is wonderful",
+      "responded": true,
+      "response": "Hi Veronica, thank you for the kind words about Daphney and Nussly! We're glad they've both made such a great impression. Please don't hesitate to reach out at (972) 895-7332 if there's anything we can help with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Frank Delgado",
+      "date": "2026-07-20",
+      "rating": 5,
+      "source": "Google",
+      "text": "Excellent service, Miss Daphney was very attentive and helped me find a solution to my problem.",
+      "responded": true,
+      "response": "Hi Frank, thank you so much for your kind words about Daphney! We're glad to hear it helped her find a solution. Please feel free to contact us at (972) 895-7332 if there's anything else we can help you with.",
+      "responseDate": "2026-07-20"
+    },
+    {
+      "author": "Ofir Hernández",
+      "date": "2026-07-11",
+      "rating": 1,
+      "source": "Google",
+      "text": "They'll charge you for amenities and all they offer is a trashy gym that they don't have a key for or don't even know how to open.",
+      "responded": true,
+      "escalated": true
+    },
+    {
+      "author": "juan de jesus",
+      "date": "2026-07-10",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Dale",
+      "date": "2026-07-08",
+      "rating": 3,
+      "source": "Google",
+      "text": "What's visiting seems like a decent place to live",
+      "responded": true
+    },
+    {
+      "author": "H. H.",
+      "date": "2026-07-07",
+      "rating": 1,
+      "source": "Google",
+      "text": "Terrible business, Terrible company, TERRIBLE POLICIES and terrible business practices. These people took my information and went and created an account without my permission. All I did was call to inquire about their prices. What type of specials they were running? What was the criterias for leasing one of their units? And someone from their office took my personal information and created an account. Then, the lady that I spoke with totally unprofessional,  a liar, and unethical told me that her manager was in the office but she was on the other line and would have to give me a call back and then she lied and said the manager was out on a tour. REALLY? AND YOU expect people to trust you! You are unethical, your BUSINESS practices ARE FLAWED, AND YOU HAVE TRAINED LIARS  WORKING FOR YOUR COMPANY! YOU CANNOT create A WHOLE account IN Someone's LEGAL NAME WITHOUT THEIR permission. THIS IS fraudulent AND ILLEGAL: WITHOUT THEIR CONSENT! SMH!",
+      "responded": true,
+      "escalated": true
+    },
+    {
+      "author": "pat daniyan",
+      "date": "2026-07-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Since I moved into the apartment, with all honesty,I applaud all the office staff for their compassionate,important to mention the manager  Shawna and Nussly.I also appreciate the maintenance team for their quick  response  to issues affecting my apartment regarding repair for their kind and soft communication and  professionalism.",
+      "responded": true
+    },
+    {
+      "author": "Fatima Adeleke",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "She's amazing worker, she listened to my complaints and solutions. Thank you so much Nussly",
+      "responded": true
+    },
+    {
+      "author": "Calvin Robinson",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly, is a special person, working in that office; she always helps me with all my, issues having to do with the AVA Apartments. Thank you for hiring her ; she is wonderful.",
+      "responded": true
+    },
+    {
+      "author": "Steven Gaines",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Mrs Shawna the property manager is God sent today June 25 2026 as i returned from work and facing eviction unknowing how God was gonna assist me and my newly wed wife. So Ms. Shawna approached me and ask if i found a place before July 28 2026 i informed her not yet but we were still looking so later i was ask to come to her office i was teary eyed what i meant about her being God sent is when Ms. SHAWNA told me how she literally placed her job on the line and that my wife will not have to move and can renew her lease and will get july rent free.\nSo Ms.Shawna if theres anything that i can do around this property PLEASE PLEASE PLEASE dont hesitate if i must take off work and assist in cleaning,security etc you dont have to call if you juat step out from behind the desk and whisper to the wind an angel will get my attention and ill come running .\nMS. SHAWNA thanks for letting God use you to help others so koudos to you and please stay hydrated.\nTHANK YOU\nTHANK YOU\nTHANK YOU\nAND\n\nGOD GOT A BLESSING COMING TO YOU SOONER THAN YOU THINK.",
+      "responded": true
+    },
+    {
+      "author": "OLUJIDE, DAVID OJEBODE",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Rhonda is very good with good customer  service always helpful at anytime",
+      "responded": true
+    },
+    {
+      "author": "Steven Gaines",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "ErnRad",
+      "date": "2026-06-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna have been really communicative and nice",
+      "responded": true
+    },
+    {
+      "author": "markayla Sanders",
+      "date": "2026-06-16",
+      "rating": 5,
+      "source": "Google",
+      "text": "It was wonderful customer service. Norma was amazing when I had a great tour they explained everything to perfection don’t have problem with maintenance. Briana Martinez is amazing as well very patient and professional. Jamie is awsome too the whole team come and join I highly recommend",
+      "responded": true
+    },
+    {
+      "author": "Maikel Phillips",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Vernon Morrow",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Norma very patient with me and helped me with every step in the application process. Her attitude was super nice and she was very respectful!!",
+      "responded": true
+    },
+    {
+      "author": "Kanmi",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna is amazing she always helps me get quick resolutions to all my issues",
+      "responded": true
+    },
+    {
+      "author": "Ervin Godinez",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Nereyda Rodriguez",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Briana Esquivel",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Jesus Sanchez is great! Always fixes our problems within minutes!",
+      "responded": true
+    },
+    {
+      "author": "Rosa Alonzo",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Excellent service",
+      "responded": true
+    },
+    {
+      "author": "Joel Gomez",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly For everything You do For me",
+      "responded": true
+    },
+    {
+      "author": "Marlon Roque",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you, Nussly. I'm truly grateful for your help. I've never been treated with such attentiveness and helpfulness as you have been. This property has a wonderful person in charge of service. May God always bless you, Nussly.",
+      "responded": true
+    },
+    {
+      "author": "Joel Reyes Reyes",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you so much, Nussly, for being so helpful and answering my questions. I've lived in this property for many years and I love your excellent service and that you always greet us with a beautiful smile.",
+      "responded": true
+    },
+    {
+      "author": "Angela Nwachukwu",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly  so nice smile and can help when u went to office for help",
+      "responded": true
+    },
+    {
+      "author": "María Rosario Blanco Ramos",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "The service we received from Nussly during the apartment move-in process was excellent. Nussly's strength lies in quickly understanding what the tenant wants. Throughout the process, she knew what we liked and disliked and showed us what we might actually like. Furthermore, she has exceptional interpersonal skills, and while she always looks out for AVA's best interests, she also seeks what's best for the tenant. You definitely have an excellent employee.",
+      "responded": true
+    },
+    {
+      "author": "Cecilia Rios",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Hi I have a complain about the  leasing  office I feel I been ignore when I move in to  here I ask that  I can’t be in a place that smell  smoke for hearth issues  and I told the leasing office about that and unfortunately  my Apartment still smell cigarettes and I was thinking to move out because I went to talk to the manager about it and she didn’t do anything, but I went to talk to Nussly the resident coordinator she was the only one who help me and she was the only one who take care of me , I’m so grateful that I went to talk to her , because no body even the manager do anything for me , I which Nussly  can be the manager because she was the only who care for me",
+      "responded": true
+    },
+    {
+      "author": "Angel Adame",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Norma was so much help thank you every question was answered",
+      "responded": true
+    },
+    {
+      "author": "Rosy Medina",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you, Nussly, for helping me with the renewal contract. Thank you for understanding and for being so patient with me sometimes I can be a bit stressful, but your kindness is what made me decide to renew again.",
+      "responded": true
+    },
+    {
+      "author": "christian de la rosa",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you, Nussly, for helping me with my contract renewal. Thank you for always looking out for my wife and me, and for helping us with every question we have. We will continue renewing our lease at this beautiful property. Thank you, Nussly—you are a very sweet person.",
+      "responded": true
+    },
+    {
+      "author": "Stephen Reynolds",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Emmanuel Obiora",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for everything because you're always helping me God bless you",
+      "responded": true
+    },
+    {
+      "author": "Wilman Angulo",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you Nussly for helping me renew my contract. I was actually going to move to another property, but thanks to Nussly's help, I understood that there was a solution to my problems and she answered my questions.",
+      "responded": true
+    },
+    {
+      "author": "Vision Igwenagu",
+      "date": "2026-06-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Norma has excellent customer service! She was patient on helping me complete my application. Thank you Norma!",
+      "responded": true
+    },
+    {
+      "author": "Liyah Gillum",
+      "date": "2026-05-14",
+      "rating": 4,
+      "source": "Google",
+      "text": "Ms.Martinez was very helpful, Apartment complex was pretty!",
+      "responded": true
+    },
+    {
+      "author": "Xavier B Gonzalez",
+      "date": "2026-05-14",
+      "rating": 4,
+      "source": "Google",
+      "text": "I originally worked with a different leasing agent and unfortunately felt a bit rushed and still had questions that weren’t fully being answered. Thankfully, I was able to speak with Norma afterward, and she completely changed my experience. She was fantastic — very professional, patient, informative, and made sure all of my questions were answered clearly. Norma made the process feel much more comfortable and welcoming. Thank you for the great customer service!",
+      "responded": true
+    },
+    {
+      "author": "Marcos Avila",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Jennifer excellent attention",
+      "responded": true
+    },
+    {
+      "author": "Jesus Gilly",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for everything",
+      "responded": true
+    },
+    {
+      "author": "enock 1 enock",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Hey really appreciate the service of the people who work here more i thank Emily and Briana for everything",
+      "responded": true
+    },
+    {
+      "author": "Jose Mendoza",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you so much, Nussly, for helping me with my contract. I really appreciate your help. I highly recommend this property; it's very clean, and the maintenance staff are very helpful and always try to make us feel welcome. It's a lovely place to stay, and the management is excellent. Thank you, Nussly, and thank you to the great management team.",
+      "responded": true
+    },
+    {
+      "author": "Katherin Fernández",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you so much, Nussly. Thank you for your attention and kindness. I highly recommend your service and comfort. Thank you also for helping me with the contract renewal.",
+      "responded": true
+    },
+    {
+      "author": "Eleazar Jesús",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Great service, thanks for your help with my apartment. Nussly, thanks for always helping me with my questions.",
+      "responded": true
+    },
+    {
+      "author": "Ana Avalos",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you so much, Nussly, for always being attentive to my problems and complaints. I renewed my contract simply because you always resolve my issues, and I hope to continue living here in this lovely property and that you will continue to be here. May God bless you greatly.",
+      "responded": true
+    },
+    {
+      "author": "Stanley Nwabunor",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly has been very helpful with the transfer of my apartment unit at Ava Apartments",
+      "responded": true
+    },
+    {
+      "author": "Raquel Rodriguez",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly, thank you very much, you treated me very well.\nLovely person",
+      "responded": true
+    },
+    {
+      "author": "Elizabeth Escorcia",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "I am very grateful to Miss Nussly for being so helpful. She was a great help in signing my renewal contract. I really appreciate how she helps me; she's truly the best help I've had in the five years I've lived here. I highly recommend Nussly.",
+      "responded": true
+    },
+    {
+      "author": "Bridget Woods",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Cori was very helpful in explaining my rent breakdown",
+      "responded": true
+    },
+    {
+      "author": "Donald Asemota",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly and Shawna arevery helpful, friendly and professional in meeting my concern",
+      "responded": true
+    },
+    {
+      "author": "Olabisi Adesanya",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "I love visiting with Shawna in the resident service office she is always smiling and makes me happy and laugh when I see her",
+      "responded": true
+    },
+    {
+      "author": "wilman jhessumar angulo nagy",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you so much, Nussly, for being so lovely, helpful, and kind to me. Thanks to your kindness, I decided to renew my contract. I love this property; I've lived here for a long time and I love the excellent service Nussly provides.",
+      "responded": true
+    },
+    {
+      "author": "TREVION LENNAN",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna makes living here easy every time I go in the resident service office she makes sure my issues are resolved she is always so friendly",
+      "responded": true
+    },
+    {
+      "author": "Afi Anyakpah",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna is always helpful when I go to the office",
+      "responded": true
+    },
+    {
+      "author": "R O",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "SHAWNA was amaziiiiing helping me with the issues i had. Resolved all my problems. Glad she's here",
+      "responded": true
+    },
+    {
+      "author": "Rasaq Bisiriyu",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna is so much help. She is the reason I canceled my notice and will continue to live at Ava Apartments",
+      "responded": true
+    },
+    {
+      "author": "Mekeja Hohnson",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna Joe is the best I love her she goes above and beyond for her residents she advocate for them and make sure you making the best decision and she very transparent I highly recommend her 10/10",
+      "responded": true
+    },
+    {
+      "author": "Emmanuel Collins",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna helped me resolve my rent issue and didn't stop until it was resolved.",
+      "responded": true
+    },
+    {
+      "author": "Tesfamhret Gunber",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you Shawna for making my renewal process quick.  I love the new staff they are so helpful",
+      "responded": true
+    },
+    {
+      "author": "Robert Lyons",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you Shawna for all your help",
+      "responded": true
+    },
+    {
+      "author": "David M",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "I had a great experience working with Nusslyn at the leasing office. She was very professional, patient, and took the time to answer all my questions and concerns. Her customer service made me feel valued as a resident, and she helped me see the benefits of staying in the community. Because of her kindness, honesty, and willingness to work with me, she convinced me to renew my lease and stay in the same complex. I truly appreciate her dedication and the excellent service she provided.",
+      "responded": true
+    },
+    {
+      "author": "Romanus Okolo",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "The resident service ladies are so helpful and thanks for helping me with everything I have been living here since 2005 and I just want to said thank you so much",
+      "responded": true
+    },
+    {
+      "author": "Sheik Daboh",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you resident services ladies for all your help",
+      "responded": true
+    },
+    {
+      "author": "Jade Leonides",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly is a good person; when things break down for me, they always go and fix them.",
+      "responded": true
+    },
+    {
+      "author": "Bolowotan omoyeni",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Resident services ladies are great so helpful",
+      "responded": true
+    },
+    {
+      "author": "Julio Jean",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna and the girls in residence office are very helpful.  I love the staff here",
+      "responded": true
+    },
+    {
+      "author": "Nadia Ramirez",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "I can’t say enough good things about the phenomenal service I received from the resident agents Nussly, Cori, and Shaw. This team went above and beyond to make my renewing experience smooth, stress-free, and truly exceptional. They were an absolute pleasure to work with, their expertise and professionalism were matched by their genuine care and patience.\nThank y’all so much for making this such a great experience!",
+      "responded": true
+    },
+    {
+      "author": "Maria Gonzalez",
+      "date": "2026-05-14",
+      "rating": 1,
+      "source": "Google",
+      "text": "Very bad service, the people in the office are very rude.",
+      "responded": true,
+      "escalated": true
+    },
+    {
+      "author": "Yonas Kidane",
+      "date": "2026-05-14",
+      "rating": 1,
+      "source": "Google",
+      "text": "The weird apartment area I live in ava west apartments and I registered my car in thier s linked but I got towed when I asked for the office they said we don’t know ask for towing I paid $ 250 for towing they’re scam apt be careful guys before you rent here",
+      "responded": true,
+      "escalated": true
+    },
+    {
+      "author": "ALAYOMI TEET CUSTOM",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna and Jamey sweet people they finish up my application for in no time",
+      "responded": true
+    },
+    {
+      "author": "Marvin Barahona",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly\nThank you so much, I really appreciate your attention. You are always very kind and efficient. Thank you very much.",
+      "responded": true
+    },
+    {
+      "author": "Angel Maldonado",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Oh thank you so much nussly for helping us ur always so helpful and kind with people thank you again",
+      "responded": true
+    },
+    {
+      "author": "Nancy mayorga",
+      "date": "2026-05-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "I'm truly grateful to Nussy for always being so helpful and kind; she's a very lovely person.\nThank you for always helping me with my questions.",
+      "responded": true
+    },
+    {
+      "author": "Marcos Avila",
+      "date": "2026-05-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "Jennifer exelente atencion",
+      "responded": true
+    },
+    {
+      "author": "Jesus Gilly",
+      "date": "2026-05-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for everything",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-05-08",
+      "rating": 2,
+      "source": "Apartment Ratings",
+      "text": "Meh. Emergency request don't get done until the next day. And if it's Saturday after 4pm lol good luck till Monday. I've had food go bad. Ive been stuck in the parking lot for a few hours (the gates were closed and we have no code). The sidewalks don't get cleared when it snows. Only thing i like is there has been no crimes or cops outside.",
+      "responded": true
+    },
+    {
+      "author": "enock 1 enock",
+      "date": "2026-05-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Hey really appreciate the service of the people who work here more i thank Emily and Briana for everything",
+      "responded": true
+    },
+    {
+      "author": "Jose Mendoza",
+      "date": "2026-05-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Muchas Gracias Nussly por ayudarme con mi contrato te agradezco mucho por tu ayuda, recomiendo esta propiedad muy limpia tambien los de mantenimiento muy serviciales siempre ayudan y tratan de hacernos sentir bien, linda compania la verdad muy buena administracion. Gracias Nussly y administracion buena que tienen",
+      "responded": true
+    },
+    {
+      "author": "Katherin Fernandez",
+      "date": "2026-05-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Muchas gracias Nussly, gracias a la atencion y amabilidad que me brindo super recomendada su atencion y comodidad, tambien gracias por ayudarme con la renovacion de contrato",
+      "responded": true
+    },
+    {
+      "author": "Eleazar Jesus",
+      "date": "2026-05-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Buen servicio, gracias por tu ayuda con mi apartamento. Nussly, gracias por ayudarme siempre con mis dudas",
+      "responded": true
+    },
+    {
+      "author": "Ana Avalos",
+      "date": "2026-05-04",
+      "rating": 5,
+      "source": "Google",
+      "text": "Muchas Gracias Nussly por siempre estar al pendiente de mis problemas y mis quejas renove mi contrato por el simple echo de que siempre me solucionas mis quejas y espero seguir aqui en esta linda propiedad y que tu sigas aqui, Que Dios te bendiga Grandemente",
+      "responded": true
+    },
+    {
+      "author": "Stanley Nwabunor",
+      "date": "2026-05-04",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly has been very helpful with the transfer of my apartment unit at Ava Apartments",
+      "responded": true
+    },
+    {
+      "author": "Raquel Rodriguez",
+      "date": "2026-05-04",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly gracias muy amable me a atendido muy bien Linda persona",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-05-03",
+      "rating": 5,
+      "source": "Apartment Ratings",
+      "text": "I only been here all week but I like it so thankfully grateful for it maintenance came on time everything has been quiet and the lady inside of being residence office she helped me correct things that I thought that was going to be a problem she was really nice and she was patient she knew I didn't understand so she took her time to explain it to me so overall I'm satisfied",
+      "responded": true
+    },
+    {
+      "author": "Elizabeth Escorcia",
+      "date": "2026-05-02",
+      "rating": 5,
+      "source": "Google",
+      "text": "Estoy muy agradecida con la senorita Nussly por ser muy servicial, me ayudo mucho a firmar mi contrato de renovacion me agrada mucho como me ayuda la verdad la mejor ayuda que e tenido en mis 5 anos que tengo viviendo aqui les recomiendo mucho a Nussly",
+      "responded": true
+    },
+    {
+      "author": "Bridget Woods",
+      "date": "2026-05-02",
+      "rating": 5,
+      "source": "Google",
+      "text": "Cori was very helpful in explaining my rent breakdown",
+      "responded": true
+    },
+    {
+      "author": "Donald Asemota",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly and Shawna are very helpful, friendly and professional in meeting my concern",
+      "responded": true
+    },
+    {
+      "author": "Olabisi Adesanya",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "I love visiting with Shawna in the resident service office she is always smiling and makes me happy and laugh when I see her",
+      "responded": true
+    },
+    {
+      "author": "wilman jhessuma",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Muchas Gracias Nussly por ser tan linda y tan servicial y amable conmigo Gracias a tu linda amabilidad Decidi renovar mi contrato Amo esta propiedad tengo viviendo mucho aqui y me encanta el buen servire me brinda Nussly",
+      "responded": true
+    },
+    {
+      "author": "TREVION LENNAN",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna makes living here easy every time I go in the resident service office she makes sure my issues are resolved she is always so friendly",
+      "responded": true
+    },
+    {
+      "author": "Afi Anyakpah",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna is always helpful when I go to the office",
+      "responded": true
+    },
+    {
+      "author": "R O",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "SHAWNA was amaziiiiing helping me with the issues i had. Resolved all my problems. Glad she's here",
+      "responded": true
+    },
+    {
+      "author": "Rasaq Bisiriyu",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna is so much help. She is the reason I canceled my notice and will continue to live at Ava Apartments",
+      "responded": true
+    },
+    {
+      "author": "Mekeja Hohnson",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna Joe is the best I love her she goes above and beyond for her residents she advocate for them and make sure you making the best decision and she very transparent I highly recommend her 10/10",
+      "responded": true
+    },
+    {
+      "author": "Briana Esquivel",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna was really helpful throughout the renewal process and does not let things go until all is fixed for you!",
+      "responded": true
+    },
+    {
+      "author": "Emmanuel Collins",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna helped me resolve my rent issue and didn't stop until it was resolved.",
+      "responded": true
+    },
+    {
+      "author": "Tesfamhret Gunber",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you Shawna for making my renewal process quick. I love the new staff they are so helpful",
+      "responded": true
+    },
+    {
+      "author": "Robert Lyons",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you Shawna for all your help",
+      "responded": true
+    },
+    {
+      "author": "David M",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "I had a great experience working with Nusslyn at the leasing office. She was very professional, patient, and took the time to answer all my questions and concerns. Her customer service made me feel valued as a resident, and she helped me see the benefits of staying in the community. Because of her kindness, honesty, and willingness to work with me, she convinced me to renew my lease and stay in the same complex. I truly appreciate her dedication and the excellent service she provided.",
+      "responded": true
+    },
+    {
+      "author": "Romanus Okolo",
+      "date": "2026-05-01",
+      "rating": 5,
+      "source": "Google",
+      "text": "The resident service ladies are so helpful and thanks for helping me with everything I have been living here since 2005 and I just want to said thank you so much",
+      "responded": true
+    },
+    {
+      "author": "Sheik Daboh",
+      "date": "2026-04-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thank you resident services ladies for all your help",
+      "responded": true
+    },
+    {
+      "author": "Jade Leonides",
+      "date": "2026-04-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly es una buena persona cuando se me descomponen las cosas luego ban a arreglarlo",
+      "responded": true
+    },
+    {
+      "author": "Bolowotan omoy",
+      "date": "2026-04-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Resident services ladies are great so helpful",
+      "responded": true
+    },
+    {
+      "author": "Julio Jean",
+      "date": "2026-04-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna and the girls in residence office are very helpful. I love the staff here",
+      "responded": true
+    },
+    {
+      "author": "Nadia Ramirez",
+      "date": "2026-04-29",
+      "rating": 5,
+      "source": "Google",
+      "text": "I can't say enough good things about the phenomenal service I received from the resident agents Nussly, Cori, and Shaw. This team went above and beyond to make my renewing experience smooth, stress-free, and truly exceptional. They were an absolute pleasure to work with, their expertise and professionalism were matched by their genuine care and patience. Thank y'all so much for making this such a great experience!",
+      "responded": true
+    },
+    {
+      "author": "Resident",
+      "date": "2026-04-29",
+      "rating": 1,
+      "source": "Google",
+      "text": "The people in the leasing office always have an attitude towards residents",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-29",
+      "rating": 1,
+      "source": "Apartment Ratings",
+      "text": "cheap, porrly maintained, porr communication between the office and tenants, the BBQ area is just a shell of a grill there is no propane lines anymore, theres 2 gyms but you can only access 1 and its nasty, tiny parking lot, broken mail boxes so anyone can take your mail, the gates dont work",
+      "responded": true
+    },
+    {
+      "author": "Maria Gonzalez",
+      "date": "2026-04-27",
+      "rating": 1,
+      "source": "Google",
+      "text": "Muy mal servicio la gente de la oficina es muy grosera",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-26",
+      "rating": 4,
+      "source": "Apartment Ratings",
+      "text": "Work was done promptly and finished clean. So far my community seems clean with few broken glass in the parking lot. Gates don't work yet but should be fixed soon. Water is very hot for showers which is great",
+      "responded": true
+    },
+    {
+      "author": "Yonas Kidane",
+      "date": "2026-04-23",
+      "rating": 1,
+      "source": "Google",
+      "text": "The weird apartment area I live in ava west apartments and I registered my car in thier s linked but I got towed when I asked for the office they said we don't know ask for towing I paid $250 for towing they're scam apt be careful guys before you rent here",
+      "responded": true
+    },
+    {
+      "author": "ALAYOMI TEET",
+      "date": "2026-04-22",
+      "rating": 5,
+      "source": "Google",
+      "text": "Shawna and Jamey sweet people they finish up my application for in no time",
+      "responded": true
+    },
+    {
+      "author": "Marvin Barahona",
+      "date": "2026-04-22",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly Muchas grasias le agradesco mucho su atencion siempre es usted muy amable y eficiente muchas grasias.",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-19",
+      "rating": 5,
+      "source": "Apartment Ratings",
+      "text": "The community and surrounding area is great, and safe - regardless of what other have said. You're surrounded by a ton of grocery stores and food spots in general, as well as easily being able to commute anywhere you may need to go. The neighborhood is clean, and well-maintained, as well as the staff and maintenance workers being great, and extremely responsive. Highly recommend renting here!",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-19",
+      "rating": 3,
+      "source": "Apartment Ratings",
+      "text": "Not recommended to be here. Since they changed a new management company. Everything they're agreeing but won't do it. Office staff change frequently and less communication to each others. So you have repeat over and over the request",
+      "responded": true
+    },
+    {
+      "author": "Angel Maldonado",
+      "date": "2026-04-18",
+      "rating": 5,
+      "source": "Google",
+      "text": "Oh thank you so much nussly for helping us ur always so helpful and kind with people thank you again",
+      "responded": true
+    },
+    {
+      "author": "Nancy mayorga",
+      "date": "2026-04-18",
+      "rating": 5,
+      "source": "Google",
+      "text": "La verdad le agradezco a Nussy por siempre ser tan servicial y amable, muy linda persona siempre Ayudandome con mis dudas gracias",
+      "responded": true
+    },
+    {
+      "author": "Osiel Rodriguez",
+      "date": "2026-04-13",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly es muy buena persona le agreadezco su servicio y lo buena que es a la hora de ayudarme con cualquier duda muchas Gracias Nussly les recomiendo siempre venir con ella siempre esta muy alegre y con buena actitud eso dice mucho de lo profesional que es ella",
+      "responded": true
+    },
+    {
+      "author": "jonathan Nataren",
+      "date": "2026-04-13",
+      "rating": 5,
+      "source": "Google",
+      "text": "Exelente atencion y la ayuda de Norma de calidad, muchisimas gracias",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-03",
+      "rating": 3,
+      "source": "Apartment Ratings",
+      "text": "It's okay to live some renovated apartments to chose from which is nice and if you just need a place to live for couple of years I recommend this apartment complex then move on to something greater I'll keep it cute and respectful because I'm grateful to live here but there is a time to move on if you can.",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-04-03",
+      "rating": 5,
+      "source": "Apartment Ratings",
+      "text": "Estoy aqui desde 2018 y no me pienso mover aun, me gusta la propiedad me gusta que es un ambiente tranquilo prospero, las personas de mantenimiento estan atentas y ala orden igual las senoritas se la oficina siempre ayudando, los recomendaria al 100%",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-03-31",
+      "rating": 5,
+      "source": "Apartment Ratings",
+      "text": "After seeing the apartment we indecisive knew we wanted to move on, the enviously is super nice and the workers are detailed. Emily was a super big help and we are very great full for her patience with us and for all the help",
+      "responded": true
+    },
+    {
+      "author": "Verified Resident",
+      "date": "2026-03-31",
+      "rating": 2,
+      "source": "Apartment Ratings",
+      "text": "I have received little to no help with any of my issues regarding rent or mail. The Amazon hub won't work and I can't have packages delivered to me because the portal is broken. Amazon has stated the office should have a form but they claim there is no form. I have received no clear word about the promotional deal which was half the reason I chose to live here in the first place. I'm run around by the resident office and leasing office unable to get a certain answer. It's incredibly shady, unprofessional and upsetting. I currently have no plans of renewing my lease at this rate.",
+      "responded": true
+    },
+    {
+      "author": "Gricelda Agular",
+      "date": "2026-03-30",
+      "rating": 1,
+      "source": "Google",
+      "text": "Muy mala administracion la verdad. Tengo viviendo 10 anos en el mismo Apartamento. Mi Apartamento se esta derunvando para abajo estoy en el segundo piso y el piso ya esta todo danado, vengo diciendo que me ayuden con mi Apartamento. Ya que me toca renovar. Pero no me quieren ayudar ya hable con la manager Alex. Y solo sabe decir que lo mejor que me tranfiera pero me quieren contar por la transferencia el cual yo solo quiero que me ayuden con mi Apartamento pero si la unica solucionar que la manager sabe decir es transferencia y que no puede hacer nada mejor me ire de la propiedad no les recomiendo aqui. Muy mala Administracion y la manager no ayuda en nada.",
+      "responded": true
+    },
+    {
+      "author": "Hannah Nguyen",
+      "date": "2026-03-21",
+      "rating": 1,
+      "source": "Google",
+      "text": "Bad",
+      "responded": true
+    },
+    {
+      "author": "Elga Nayade",
+      "date": "2026-03-16",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Jerry Hetrick",
+      "date": "2026-03-16",
+      "rating": 5,
+      "source": "Google",
+      "text": "Josie Reyes was very polite, explained all that had to with the rental process all the way down to showing the apartment. Very professional very polite and very friendly. I Highly would recommend the apartments.",
+      "responded": true
+    },
+    {
+      "author": "Yeferson Ramones",
+      "date": "2026-03-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Muy buena atencion de parte de la senorita nussly muy amable y explica muy bien con detalle excelente servicio",
+      "responded": true
+    },
+    {
+      "author": "jalil akbari",
+      "date": "2026-03-03",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Ms Nussly for your help, you're so gorgeous, I move in out because I bought a house, but I leaving happy because you was so helpful and so kindness",
+      "responded": true
+    },
+    {
+      "author": "Oneboy junior",
+      "date": "2026-03-02",
+      "rating": 5,
+      "source": "Google",
+      "text": "Emily is a super agent. Took her time to explain and walk us through the process and the property. Made sure the apartment was clean and fresh and ready to move in. I'll surely recommend her.",
+      "responded": true
+    },
+    {
+      "author": "Tamia Jackson",
+      "date": "2026-02-17",
+      "rating": 5,
+      "source": "Google",
+      "text": "I haven't even moved in yet, and I already feel so welcomed by the team at AVA Apartments! The leasing office has been absolutely incredible throughout this entire process. They are extremely responsive, respectful, and genuinely kind. Every question I've had has been answered quickly and clearly, and they've made what can normally be a stressful experience feel smooth and easy. This is truly the nicest and most professional leasing office I've ever come across.",
+      "responded": true
+    },
+    {
+      "author": "Marian Mayuku",
+      "date": "2026-02-17",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly thanks for your assistance I appreciate",
+      "responded": true
+    },
+    {
+      "author": "Marco Garcia",
+      "date": "2026-02-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Tengo algo que decir y es Acerca de la senorita Nussly, la verdad es que el 2 de febrero fue un dia muy complicado con lo de la renta, pero yo vengo a decir que ella a sido demasiada paciente la verdad yo miraba como residentes le gritaban y le decian cosas feas hasta le gritaban por que talvez ellos mo pagaron las utilidades de enero, y yo quiero decir que ella es muy excelente y la manera que ella era paciente y fue muy amable, aunque le estuvieran gritando y hablando feo, dice mucho de ella, la verdad muy profesional Nussly muy amable muy linda persona, Gracias Nussly por apelar de yo escuche ese dia como te gritaban fuiste muy paciente y amable.",
+      "responded": true
+    },
+    {
+      "author": "Jaquan Dildy",
+      "date": "2026-02-03",
+      "rating": 4,
+      "source": "Google",
+      "text": "Went in for a tour the other day and M.Reyes was amazing, very straight for and wonderful energy",
+      "responded": true
+    },
+    {
+      "author": "adeoye abiodun",
+      "date": "2026-01-30",
+      "rating": 5,
+      "source": "Google",
+      "text": "GRECIA has been very nice helpful since I've been living at this apartment for over a year",
+      "responded": true
+    },
+    {
+      "author": "Avelaura Hernand",
+      "date": "2026-01-26",
+      "rating": 5,
+      "source": "Google",
+      "text": "La muchacha de residente coordinador es muy amable muy linda persona muy paciente a la hora de explicarme mis pagos. Gracias Nussly por ser tan linda persona y ayudarme con las dudas. Gracias Nussly",
+      "responded": true
+    },
+    {
+      "author": "Yannick Teddy",
+      "date": "2026-01-23",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Robert Frame",
+      "date": "2026-01-15",
+      "rating": 5,
+      "source": "Google",
+      "text": "(no review text — rating only)",
+      "responded": true
+    },
+    {
+      "author": "Arinze Mgbakor",
+      "date": "2026-01-15",
+      "rating": 5,
+      "source": "Google",
+      "text": "It's a great Apartment and Nussly is an even more amazing help. She's made the stay there even better than it could be, ask for NUSSLY when you come check them out.",
+      "responded": true
+    },
+    {
+      "author": "Edgar",
+      "date": "2026-01-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Excelente lugar y la atencion de la coordinadora de residentes Nussly es muy comprometida y extraordinaria se las recomiendo",
+      "responded": true
+    },
+    {
+      "author": "Marin Julio",
+      "date": "2026-01-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Quiero recomendarles a la coordinadora de residentes Nassly excelente atencion de verdad",
+      "responded": true
+    },
+    {
+      "author": "Mireya Juarez",
+      "date": "2026-01-14",
+      "rating": 5,
+      "source": "Google",
+      "text": "Gracias Nussly por tu ayuda y paciencia por saberme explicar con calma la nueva applicacion con la nueva compania, te agradezco tu amabelidad Nussly",
+      "responded": true
+    },
+    {
+      "author": "Ebahills Entertain",
+      "date": "2026-01-13",
+      "rating": 5,
+      "source": "Google",
+      "text": "Angel the lead maintenance supervisor is awesome and very knowledgeable I am so glad he is here and has been a big part of making sure this project is successful",
+      "responded": true
+    },
+    {
+      "author": "BARRISTER UBA",
+      "date": "2026-01-12",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for your help so glad having you in resident service office thanks for being so kind with me and help me",
+      "responded": true
+    },
+    {
+      "author": "Aiden Lane",
+      "date": "2026-01-12",
+      "rating": 5,
+      "source": "Google",
+      "text": "New company took over, CAF — and the Maintenance Tech Chris absolutely knocked our socks off with his professionalism and helpfulness. He came and fixed our dishwasher in just a few minutes, and helped us figure out what had caused the issue to begin with. Great service! There were some technical hiccups with the transition — but they've definitely shown commitment to making these apartments better. Excited for the new year with the new management group! Shoutout Chris again.",
+      "responded": true
+    },
+    {
+      "author": "Yohanes Ghebre",
+      "date": "2026-01-12",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly thank you for being so patient and kind and for knowing how to explain yourself well and understand the resident's problems thank you so much Nussly",
+      "responded": true
+    },
+    {
+      "author": "Ucee Ucee",
+      "date": "2026-01-11",
+      "rating": 1,
+      "source": "Google",
+      "text": "Run away don't come here, no hot water since winter, or you bring your Big pot to boil hot water for you and family. This has been every year. Summer the water is scotch Hot. The shower mixer/manifest does not mix hot and cold, can jumb very Hot at middle of showering, thus burning your body. My car was hit and run at midnight and the apartment couldn't get a surveillance camera of the other driver. Today 01/11/26. Even with the new management, in the midst of cold weather there is no hot water, this is about 12am midnight boiling water with my big pot just to get hot water. My pest control treatment request was marked completed without anyone coming into my unit. The new management uses AI to respond with text messages and nothing is getting done.",
+      "responded": false,
+      "escalated": true
+    },
+    {
+      "author": "Nina nj",
+      "date": "2026-01-11",
+      "rating": 1,
+      "source": "Google",
+      "text": "Don't waste your time here. There is absolutely no communication. After I paid the deposit for the application, we heard nothing for two straight weeks — no updates, no notifications, and no indication of whether the application was approved or denied. We tried repeatedly to contact them, but they didn't even bother to share their new email for updates until the last minute. I live an hour and a half away and had to drive to the office every weekend for nearly a month and a half just to get about five minutes of my questions answered. This experience was extremely frustrating and unprofessional.",
+      "responded": true
+    },
+    {
+      "author": "Amy Munoz",
+      "date": "2026-01-09",
+      "rating": 5,
+      "source": "Google",
+      "text": "Cris M tech helped me fix an issue I had for so long! Went above & beyond to get everything perfect! Very friendly & professial. 10/10 recommend him!",
+      "responded": true
+    },
+    {
+      "author": "LuisSotoFitness",
+      "date": "2026-01-09",
+      "rating": 1,
+      "source": "Google",
+      "text": "2 years since this people sent me to collection because They send to collection 1500 for a dry and washer that they got stolen after I moved out of the apartment and after I gave them the key and everything, this is an scam because even that's a trash dry and washer for 1500, and it that probably cost 300 both because is old. Wow and they say they found someone taking the dry and washer from the apartment and they did let him go because this guy was saying he bought it from facebook market. So you let some random dude take the dry and washer and then charged that to me? Without mention I left because I had rats in my apartment.",
+      "responded": false,
+      "escalated": true
+    },
+    {
+      "author": "Tim Cubik",
+      "date": "2026-01-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "Cris the plumber guy did a very great job",
+      "responded": true
+    },
+    {
+      "author": "Adeyinka Adeboye",
+      "date": "2026-01-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly is always kind humble and helpful before I did not receive help when visiting the residents service office but since Nussly she has been there she is always kind and helps with any concerns.",
+      "responded": true
+    },
+    {
+      "author": "sheriff egbulefu",
+      "date": "2026-01-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "THANKS NUSSLY FOR YOUR HELP, THANKS FOR BEEN SO KIND AND CARING FOR THE RESIDENTS AND ALWAYS BE HAPPY I SO HAAPY FOR YOUR HELP",
+      "responded": true
+    },
+    {
+      "author": "Austin Pease",
+      "date": "2026-01-08",
+      "rating": 5,
+      "source": "Google",
+      "text": "AMAZING COMPLEX! IF YOU NEED A PLACE, COME TO AVA, AND ASK FOR NUSSLY! SHE WILL TAKE CARE OF YOU",
+      "responded": true
+    },
+    {
+      "author": "Yeymi Fajardo",
+      "date": "2026-01-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Gracias Nussly por tu ayuda y con todo esto con la nueva compania, no entendia nada y ella fue muy amable al explicarme todo el proceso con la nueva app y explicarme como pagar la renta. Gracias nussly",
+      "responded": true
+    },
+    {
+      "author": "Robel Tifanos",
+      "date": "2026-01-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for give good services and helping me with any concerns. I really appreciate you help.",
+      "responded": true
+    },
+    {
+      "author": "Racheal",
+      "date": "2026-01-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Nussly was really nice to me when i went to the leasing office and i was able to voice out my complaints.",
+      "responded": true
+    },
+    {
+      "author": "Mahmud",
+      "date": "2026-01-07",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly For helping me with everything thanks for the patience I have been living here for a while and I was thinking to move out, but now I don't want to anymore because I feel good with your services and help. Thanks Nussly",
+      "responded": true
+    },
+    {
+      "author": "Jon Zie",
+      "date": "2026-01-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Thanks Nussly for helping me with everything she is so sweet and kind thank goodness she is in resident service office, thanks Nussly",
+      "responded": true
+    },
+    {
+      "author": "Williemina Griffiths",
+      "date": "2026-01-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Very kind to Resdents Thanks Nussly for all you do",
+      "responded": true
+    },
+    {
+      "author": "Emily Cruz",
+      "date": "2026-01-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "The front desk lady, Emily, she helped us out fill out the application! And everything else was good experience definitely recommend",
+      "responded": true
+    },
+    {
+      "author": "Santiago Galan",
+      "date": "2026-01-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "Fui a la oficina de residente servicio y me agrado como nussly me atendio, acaban de hacer cambio de compania y la verdad no entendia nada de mis pagos y ella a sido muy amable y comprensiva. Gracias Nussly por ser tan amable a la hora de ayudar",
+      "responded": true
+    },
+    {
+      "author": "oluseyi oyadina",
+      "date": "2026-01-06",
+      "rating": 5,
+      "source": "Google",
+      "text": "I met Nussly at resident services office, she was awesome in the way she attended to me, very polite and attention to detals.",
+      "responded": true
+    },
+    {
+      "author": "jorge amayo",
+      "date": "2026-01-05",
+      "rating": 5,
+      "source": "Google",
+      "text": "Fui a la oficina del residente y la senorita Nussly me ayudo mucho fue muy paciente y me explico bien lo de mi renta y todo muchas Gracias Nussly por ser paciente y amable.",
+      "responded": true
+    },
+    {
+      "author": "Stuart",
+      "date": "2026-01-05",
+      "rating": 5,
+      "source": "Google",
+      "text": "Knew her stuff. Quickly helped n friendly. Nussly",
+      "responded": true
+    },
+    {
+      "author": "Julian Delabano",
+      "date": "2026-01-03",
+      "rating": 2,
+      "source": "Google",
+      "text": "Horrible management — false advertisement — untrained employees, lines out the door for basic questions, caused us to be homeless for several days.",
+      "responded": false,
+      "escalated": true
+    }
+  ]
+}
