@@ -1,0 +1,9 @@
+{
+  "_comment": "Weekly projected-occupancy points captured from each Projected Occupancy MMR upload. Each time you overwrite public/projected_occupancy.xlsx with a new MMR, append that MMR’s CURRENT (earliest) week here: { \"date\": \"<period-end YYYY-MM-DD>\", \"occ\": <Ending Occupancy decimal> }. This preserves projected history since the xlsx only holds the latest snapshot.",
+  "points": [
+    {
+      "date": "2026-07-12",
+      "occ": 0.719037
+    }
+  ]
+}
