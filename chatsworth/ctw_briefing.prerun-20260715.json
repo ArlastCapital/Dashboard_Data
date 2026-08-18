@@ -1,0 +1,5575 @@
+{
+  "property": "Chatsworth Apartments",
+  "code": "CTW",
+  "generatedAt": "2026-07-09T04:56:43.815Z",
+  "current": {
+    "weekEnding": "7/5/2026",
+    "periodFrom": "6/29/2026",
+    "asOf": "7/7/2026",
+    "generatedAt": "2026-07-09T04:56:43.812Z",
+    "occupancy": {
+      "totalUnits": 410,
+      "occupied": 373,
+      "available": 18,
+      "physicalOccPct": 0.9098,
+      "pctMadeReady": 0.0556,
+      "moveIns": 3,
+      "moveOuts": 3,
+      "netChange": 0,
+      "noticeGiven": 1,
+      "avgRentInPlace": 1612.96,
+      "avgPSF": 1.402,
+      "vacantUnits": 26,
+      "exposurePct": 0.046341463414634146
+    },
+    "leasing": {
+      "prospects": 77,
+      "visits": 6,
+      "apps": 11,
+      "denials": 2,
+      "cancelledApps": 0,
+      "newLeases": 9,
+      "netLeases": 8,
+      "leasePerVisit": 1.3333333333333333,
+      "leasePerProspect": 0.1038961038961039
+    },
+    "renewals": {
+      "months": [
+        "July",
+        "August",
+        "September"
+      ],
+      "expirations": [
+        28,
+        34,
+        31,
+        17
+      ],
+      "offersMade": [
+        27,
+        34,
+        31,
+        0
+      ],
+      "committed": [
+        7,
+        0,
+        0,
+        0
+      ],
+      "ntv": [
+        6,
+        1,
+        0,
+        0
+      ],
+      "undecidedMTM": [
+        15,
+        33,
+        32,
+        0
+      ],
+      "renewalPct": [
+        0.25,
+        0,
+        0,
+        0
+      ],
+      "renewalPctCurrent": 0.25
+    },
+    "delinquency": {
+      "total": 106931.47,
+      "balance": 106857.3,
+      "current": 78375.73,
+      "month1": 18358.62,
+      "month2": 6117.56,
+      "month3": 1858.4,
+      "month4": 2221.16,
+      "over30": 28555.74
+    },
+    "workOrders": {
+      "total": 38,
+      "open": 27,
+      "completed": 11,
+      "backlog": 27
+    },
+    "financials": {
+      "periodThru": "7/31/2026",
+      "totalIncome": {
+        "code": "",
+        "name": "TOTAL INCOME",
+        "curActual": 606327.89,
+        "curBudget": 638514,
+        "curVar": -32186.11,
+        "ytdActual": 4303732.78,
+        "ytdBudget": 4421666,
+        "ytdVar": -117933.22,
+        "annualBudget": 7617152
+      },
+      "netRental": {
+        "code": "",
+        "name": "NET RENTAL INCOME",
+        "curActual": 548473.26,
+        "curBudget": 590066,
+        "curVar": -41592.74,
+        "ytdActual": 3952903.49,
+        "ytdBudget": 4091243,
+        "ytdVar": -138339.51,
+        "annualBudget": 7063275
+      },
+      "otherIncome": {
+        "code": "",
+        "name": "TOTAL OTHER INCOME",
+        "curActual": 59856.05,
+        "curBudget": 60698,
+        "curVar": -841.95,
+        "ytdActual": 427103.79,
+        "ytdBudget": 416173,
+        "ytdVar": 10930.79,
+        "annualBudget": 700877
+      },
+      "totalBadDebt": {
+        "code": "",
+        "name": "TOTAL BAD DEBT - NET",
+        "curActual": -2001.42,
+        "curBudget": -12250,
+        "curVar": 10248.58,
+        "ytdActual": -76274.5,
+        "ytdBudget": -85750,
+        "ytdVar": 9475.5,
+        "annualBudget": -147000
+      },
+      "totalOpEx": {
+        "code": "",
+        "name": "TOTAL OPERATING EXPENSES",
+        "curActual": 6840.03,
+        "curBudget": 278902,
+        "curVar": 272061.97,
+        "ytdActual": 1611349.72,
+        "ytdBudget": 1972702,
+        "ytdVar": 361352.28,
+        "annualBudget": 3373150
+      },
+      "noi": {
+        "code": "",
+        "name": "NET OPERATING INCOME",
+        "curActual": 599487.86,
+        "curBudget": 359612,
+        "curVar": 239875.86,
+        "ytdActual": 2692383.06,
+        "ytdBudget": 2448964,
+        "ytdVar": 243419.06,
+        "annualBudget": 4244002
+      },
+      "marketRent": {
+        "code": "HG1016",
+        "name": "MARKET RENT",
+        "curActual": 634822.05,
+        "curBudget": 653367,
+        "curVar": -18544.95,
+        "ytdActual": 4413245.38,
+        "ytdBudget": 4496419,
+        "ytdVar": -83173.62,
+        "annualBudget": 7743484
+      },
+      "vacancy": {
+        "code": "HG1020",
+        "name": "VACANCY",
+        "curActual": -62967.99,
+        "curBudget": -42178,
+        "curVar": -20789.99,
+        "ytdActual": -405280.26,
+        "ytdBudget": -311571,
+        "ytdVar": -93709.26,
+        "annualBudget": -523426
+      },
+      "expenseLines": [
+        {
+          "code": "",
+          "name": "TOTAL ADMIN. COSTS",
+          "curActual": 1118.16,
+          "curBudget": 8783,
+          "curVar": 7664.84,
+          "ytdActual": 52804.03,
+          "ytdBudget": 63460,
+          "ytdVar": 10655.97,
+          "annualBudget": 109648
+        },
+        {
+          "code": "",
+          "name": "TOTAL MANAGEMENT FEES",
+          "curActual": 0,
+          "curBudget": 19785,
+          "curVar": 19785,
+          "ytdActual": 115277.23,
+          "ytdBudget": 137059,
+          "ytdVar": 21781.77,
+          "annualBudget": 236073
+        },
+        {
+          "code": "",
+          "name": "TOTAL UTILITIES",
+          "curActual": 0,
+          "curBudget": 49172,
+          "curVar": 49172,
+          "ytdActual": 280782.03,
+          "ytdBudget": 342562,
+          "ytdVar": 61779.97,
+          "annualBudget": 586186
+        },
+        {
+          "code": "",
+          "name": "TOTAL CONTRACT REPAIRS",
+          "curActual": 970,
+          "curBudget": 18490,
+          "curVar": 17520,
+          "ytdActual": 112047.73,
+          "ytdBudget": 134020,
+          "ytdVar": 21972.27,
+          "annualBudget": 225320
+        }
+      ]
+    },
+    "balanceSheet": {
+      "totalAssets": 103857634.33,
+      "totalCurrentAssets": 3507980.25,
+      "cashOperating": -217378.43,
+      "arTenants": 129935.78,
+      "accountsPayable": 1020083.17,
+      "totalCurrentLiabilities": 2052217.43,
+      "totalLiabilities": 99230070.36,
+      "tenantSecurityDeposits": 165095.01,
+      "totalCapital": 4627563.97,
+      "operatingReserve": 399962.31
+    },
+    "forecast": [
+      {
+        "weekEnding": "7/12/2026",
+        "totalUnits": 410,
+        "occupied": 373,
+        "occPct": 0.9098,
+        "expMoveIns": 3,
+        "expMoveOuts": 1,
+        "expOccupied": 375,
+        "expOccPct": 0.9146
+      },
+      {
+        "weekEnding": "7/19/2026",
+        "totalUnits": 410,
+        "occupied": 375,
+        "occPct": 0.9146,
+        "expMoveIns": 7,
+        "expMoveOuts": 2,
+        "expOccupied": 380,
+        "expOccPct": 0.9268000000000001
+      },
+      {
+        "weekEnding": "7/26/2026",
+        "totalUnits": 410,
+        "occupied": 380,
+        "occPct": 0.9268,
+        "expMoveIns": 4,
+        "expMoveOuts": 0,
+        "expOccupied": 384,
+        "expOccPct": 0.9366
+      },
+      {
+        "weekEnding": "8/2/2026",
+        "totalUnits": 410,
+        "occupied": 384,
+        "occPct": 0.9366,
+        "expMoveIns": 1,
+        "expMoveOuts": 4,
+        "expOccupied": 381,
+        "expOccPct": 0.9293
+      },
+      {
+        "weekEnding": "8/9/2026",
+        "totalUnits": 410,
+        "occupied": 381,
+        "occPct": 0.9293,
+        "expMoveIns": 0,
+        "expMoveOuts": 0,
+        "expOccupied": 381,
+        "expOccPct": 0.9293
+      },
+      {
+        "weekEnding": "8/16/2026",
+        "totalUnits": 410,
+        "occupied": 381,
+        "occPct": 0.9293,
+        "expMoveIns": 2,
+        "expMoveOuts": 0,
+        "expOccupied": 383,
+        "expOccPct": 0.9340999999999999
+      },
+      {
+        "weekEnding": "8/23/2026",
+        "totalUnits": 410,
+        "occupied": 383,
+        "occPct": 0.9341,
+        "expMoveIns": 0,
+        "expMoveOuts": 0,
+        "expOccupied": 383,
+        "expOccPct": 0.9340999999999999
+      },
+      {
+        "weekEnding": "8/30/2026",
+        "totalUnits": 410,
+        "occupied": 383,
+        "occPct": 0.9341,
+        "expMoveIns": 0,
+        "expMoveOuts": 0,
+        "expOccupied": 383,
+        "expOccPct": 0.9340999999999999
+      }
+    ],
+    "moveOuts": [
+      {
+        "resident": "Garcia Martin, Maria",
+        "vacateDate": "6/30/2026",
+        "reason": "Skipped"
+      },
+      {
+        "resident": "Wharton, Laura",
+        "vacateDate": "6/30/2026",
+        "reason": "Job Transfer"
+      },
+      {
+        "resident": "Garrard, Rita",
+        "vacateDate": "6/30/2026",
+        "reason": "Financial Issues/Job Loss"
+      }
+    ],
+    "renewalsAnalysis": [
+      {
+        "month": "March",
+        "renewedLeases": 19,
+        "pctRenewed": 0.6552,
+        "avgOldLeaseRate": 1597,
+        "avgRenewalRate": 1618.05,
+        "avgIncrease": 21.05,
+        "pctIncrease": 0.0132,
+        "expirations": 29
+      },
+      {
+        "month": "April",
+        "renewedLeases": 35,
+        "pctRenewed": 0.7609,
+        "avgOldLeaseRate": 1531.26,
+        "avgRenewalRate": 1555.91,
+        "avgIncrease": 24.66,
+        "pctIncrease": 0.0161,
+        "expirations": 46
+      },
+      {
+        "month": "May",
+        "renewedLeases": 27,
+        "pctRenewed": 0.7297,
+        "avgOldLeaseRate": 1484.89,
+        "avgRenewalRate": 1510.67,
+        "avgIncrease": 25.78,
+        "pctIncrease": 0.0174,
+        "expirations": 37
+      },
+      {
+        "month": "June",
+        "renewedLeases": 17,
+        "pctRenewed": 0.6537999999999999,
+        "avgOldLeaseRate": 1553.06,
+        "avgRenewalRate": 1577.29,
+        "avgIncrease": 24.24,
+        "pctIncrease": 0.015600000000000001,
+        "expirations": 26
+      },
+      {
+        "month": "July",
+        "renewedLeases": 7,
+        "pctRenewed": 0.25,
+        "avgOldLeaseRate": 1467.71,
+        "avgRenewalRate": 1489.71,
+        "avgIncrease": 22,
+        "pctIncrease": 0.015,
+        "expirations": 28
+      }
+    ],
+    "ua": {
+      "units": [
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "1201",
+          "key": "A1P-01-1201",
+          "status": "Vacant - Not Ready",
+          "sqft": 950,
+          "availableDate": "Friday, July 17, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1275,
+              "effectiveRent": 1275,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1355,
+              "effectiveRent": 1355,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1365,
+              "effectiveRent": 1365,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1375,
+              "effectiveRent": 1375,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1440,
+              "effectiveRent": 1440,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "2106",
+          "key": "A1P-01-2106",
+          "status": "Vacant - Not Ready",
+          "sqft": 950,
+          "availableDate": "Friday, July 17, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1275,
+              "effectiveRent": 1275,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1355,
+              "effectiveRent": 1355,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1365,
+              "effectiveRent": 1365,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1375,
+              "effectiveRent": 1375,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1440,
+              "effectiveRent": 1440,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "4210",
+          "key": "A1P-01-4210",
+          "status": "Vacant - Not Ready",
+          "sqft": 950,
+          "availableDate": "Friday, July 24, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1310,
+              "effectiveRent": 1310,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1355,
+              "effectiveRent": 1355,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1365,
+              "effectiveRent": 1365,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1410,
+              "effectiveRent": 1410,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1475,
+              "effectiveRent": 1475,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1710,
+              "effectiveRent": 1710,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "2805",
+          "key": "A1P-01-2805",
+          "status": "On Notice",
+          "sqft": 950,
+          "availableDate": "Friday, July 31, 2026",
+          "pricing": [
+            {
+              "term": 10,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 15,
+              "rent": 1335,
+              "effectiveRent": 1335,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1340,
+              "effectiveRent": 1340,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1360,
+              "effectiveRent": 1360,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1400,
+              "effectiveRent": 1400,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1745,
+              "effectiveRent": 1745,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "1701",
+          "key": "A1P-01-1701",
+          "status": "On Notice",
+          "sqft": 950,
+          "availableDate": "Friday, August 14, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1260,
+              "effectiveRent": 1260,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1265,
+              "effectiveRent": 1265,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1360,
+              "effectiveRent": 1360,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1400,
+              "effectiveRent": 1400,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1425,
+              "effectiveRent": 1425,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1P",
+          "bldg": "01",
+          "unit": "1404",
+          "key": "A1P-01-1404",
+          "status": "On Notice",
+          "sqft": 950,
+          "availableDate": "Friday, August 21, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1260,
+              "effectiveRent": 1260,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1265,
+              "effectiveRent": 1265,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1320,
+              "effectiveRent": 1320,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1330,
+              "effectiveRent": 1330,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1360,
+              "effectiveRent": 1360,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1400,
+              "effectiveRent": 1400,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1425,
+              "effectiveRent": 1425,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1450,
+              "effectiveRent": 1450,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1465,
+              "effectiveRent": 1465,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1685,
+              "effectiveRent": 1685,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "A1R",
+          "bldg": "01",
+          "unit": "1406",
+          "key": "A1R-01-1406",
+          "status": "Vacant - Not Ready",
+          "sqft": 950,
+          "availableDate": "Friday, July 10, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1395,
+              "effectiveRent": 1395,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1445,
+              "effectiveRent": 1445,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1455,
+              "effectiveRent": 1455,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1480,
+              "effectiveRent": 1480,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1490,
+              "effectiveRent": 1490,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1490,
+              "effectiveRent": 1490,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1555,
+              "effectiveRent": 1555,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1555,
+              "effectiveRent": 1555,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1590,
+              "effectiveRent": 1590,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1610,
+              "effectiveRent": 1610,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1780,
+              "effectiveRent": 1780,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1810,
+              "effectiveRent": 1810,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B1P",
+          "bldg": "01",
+          "unit": "0706",
+          "key": "B1P-01-0706",
+          "status": "Vacant - Not Ready",
+          "sqft": 1230,
+          "availableDate": "Thursday, July 9, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1615,
+              "effectiveRent": 1615,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1620,
+              "effectiveRent": 1620,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1695,
+              "effectiveRent": 1695,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1705,
+              "effectiveRent": 1705,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1805,
+              "effectiveRent": 1805,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1855,
+              "effectiveRent": 1855,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1865,
+              "effectiveRent": 1865,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1870,
+              "effectiveRent": 1870,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 2050,
+              "effectiveRent": 2050,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 2065,
+              "effectiveRent": 2065,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 2265,
+              "effectiveRent": 2265,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B1P",
+          "bldg": "01",
+          "unit": "2310",
+          "key": "B1P-01-2310",
+          "status": "Vacant - Not Ready",
+          "sqft": 1230,
+          "availableDate": "Friday, July 24, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1615,
+              "effectiveRent": 1615,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1620,
+              "effectiveRent": 1620,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1695,
+              "effectiveRent": 1695,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1705,
+              "effectiveRent": 1705,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1805,
+              "effectiveRent": 1805,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1855,
+              "effectiveRent": 1855,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1865,
+              "effectiveRent": 1865,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1870,
+              "effectiveRent": 1870,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 2050,
+              "effectiveRent": 2050,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 2065,
+              "effectiveRent": 2065,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 2265,
+              "effectiveRent": 2265,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B1P",
+          "bldg": "01",
+          "unit": "2304",
+          "key": "B1P-01-2304",
+          "status": "Vacant - Not Ready",
+          "sqft": 1230,
+          "availableDate": "Friday, July 31, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1615,
+              "effectiveRent": 1615,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1620,
+              "effectiveRent": 1620,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1695,
+              "effectiveRent": 1695,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1800,
+              "effectiveRent": 1800,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1810,
+              "effectiveRent": 1810,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1855,
+              "effectiveRent": 1855,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1870,
+              "effectiveRent": 1870,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1895,
+              "effectiveRent": 1895,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1895,
+              "effectiveRent": 1895,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2060,
+              "effectiveRent": 2060,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 2060,
+              "effectiveRent": 2060,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B1R",
+          "bldg": "01",
+          "unit": "0306",
+          "key": "B1R-01-0306",
+          "status": "Vacant - Not Ready",
+          "sqft": 1230,
+          "availableDate": "Friday, July 17, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1765,
+              "effectiveRent": 1765,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1770,
+              "effectiveRent": 1770,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1845,
+              "effectiveRent": 1845,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1855,
+              "effectiveRent": 1855,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1945,
+              "effectiveRent": 1945,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1955,
+              "effectiveRent": 1955,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1965,
+              "effectiveRent": 1965,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 2005,
+              "effectiveRent": 2005,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2015,
+              "effectiveRent": 2015,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 2020,
+              "effectiveRent": 2020,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 2200,
+              "effectiveRent": 2200,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 2215,
+              "effectiveRent": 2215,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 2415,
+              "effectiveRent": 2415,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B2P",
+          "bldg": "01",
+          "unit": "3609",
+          "key": "B2P-01-3609",
+          "status": "On Notice",
+          "sqft": 1245,
+          "availableDate": "Monday, July 20, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1415,
+              "effectiveRent": 1415,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1425,
+              "effectiveRent": 1425,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1495,
+              "effectiveRent": 1495,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1500,
+              "effectiveRent": 1500,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1520,
+              "effectiveRent": 1520,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1530,
+              "effectiveRent": 1530,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1750,
+              "effectiveRent": 1750,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1845,
+              "effectiveRent": 1845,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B2P",
+          "bldg": "01",
+          "unit": "2909",
+          "key": "B2P-01-2909",
+          "status": "On Notice",
+          "sqft": 1245,
+          "availableDate": "Friday, July 31, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1415,
+              "effectiveRent": 1415,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1420,
+              "effectiveRent": 1420,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1495,
+              "effectiveRent": 1495,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1500,
+              "effectiveRent": 1500,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1525,
+              "effectiveRent": 1525,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1850,
+              "effectiveRent": 1850,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B2R",
+          "bldg": "01",
+          "unit": "3606",
+          "key": "B2R-01-3606",
+          "status": "Vacant - Not Ready",
+          "sqft": 1245,
+          "availableDate": "Friday, July 31, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1585,
+              "effectiveRent": 1585,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1590,
+              "effectiveRent": 1590,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1600,
+              "effectiveRent": 1600,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1655,
+              "effectiveRent": 1655,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1695,
+              "effectiveRent": 1695,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1835,
+              "effectiveRent": 1835,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1985,
+              "effectiveRent": 1985,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 2020,
+              "effectiveRent": 2020,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "2001",
+          "key": "B3P-01-2001",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1900,
+              "effectiveRent": 1900,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1995,
+              "effectiveRent": 1995,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "2002",
+          "key": "B3P-01-2002",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1900,
+              "effectiveRent": 1900,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1995,
+              "effectiveRent": 1995,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "2003",
+          "key": "B3P-01-2003",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1900,
+              "effectiveRent": 1900,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1995,
+              "effectiveRent": 1995,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "2004",
+          "key": "B3P-01-2004",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1900,
+              "effectiveRent": 1900,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1995,
+              "effectiveRent": 1995,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "2005",
+          "key": "B3P-01-2005",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1900,
+              "effectiveRent": 1900,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1995,
+              "effectiveRent": 1995,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "4604",
+          "key": "B3P-01-4604",
+          "status": "Vacant - Not Ready",
+          "sqft": 1245,
+          "availableDate": "Friday, July 24, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1415,
+              "effectiveRent": 1415,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1425,
+              "effectiveRent": 1425,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1495,
+              "effectiveRent": 1495,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1500,
+              "effectiveRent": 1500,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1520,
+              "effectiveRent": 1520,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1530,
+              "effectiveRent": 1530,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1750,
+              "effectiveRent": 1750,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1845,
+              "effectiveRent": 1845,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "4601",
+          "key": "B3P-01-4601",
+          "status": "Vacant - Not Ready",
+          "sqft": 1245,
+          "availableDate": "Friday, July 31, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1415,
+              "effectiveRent": 1415,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1420,
+              "effectiveRent": 1420,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1495,
+              "effectiveRent": 1495,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1500,
+              "effectiveRent": 1500,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1525,
+              "effectiveRent": 1525,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1850,
+              "effectiveRent": 1850,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "3201",
+          "key": "B3P-01-3201",
+          "status": "On Notice",
+          "sqft": 1245,
+          "availableDate": "Friday, August 14, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1415,
+              "effectiveRent": 1415,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1420,
+              "effectiveRent": 1420,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 1430,
+              "effectiveRent": 1430,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1485,
+              "effectiveRent": 1485,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1495,
+              "effectiveRent": 1495,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1500,
+              "effectiveRent": 1500,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1510,
+              "effectiveRent": 1510,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1525,
+              "effectiveRent": 1525,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1625,
+              "effectiveRent": 1625,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1645,
+              "effectiveRent": 1645,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1665,
+              "effectiveRent": 1665,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1850,
+              "effectiveRent": 1850,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3P",
+          "bldg": "01",
+          "unit": "0907",
+          "key": "B3P-01-0907",
+          "status": "On Notice",
+          "sqft": 1245,
+          "availableDate": "Friday, September 18, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1565,
+              "effectiveRent": 1565,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 1570,
+              "effectiveRent": 1570,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1575,
+              "effectiveRent": 1575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1635,
+              "effectiveRent": 1635,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1650,
+              "effectiveRent": 1650,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1660,
+              "effectiveRent": 1660,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1670,
+              "effectiveRent": 1670,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1680,
+              "effectiveRent": 1680,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1775,
+              "effectiveRent": 1775,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1795,
+              "effectiveRent": 1795,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1980,
+              "effectiveRent": 1980,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2005,
+              "effectiveRent": 2005,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3R",
+          "bldg": "01",
+          "unit": "2006",
+          "key": "B3R-01-2006",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1720,
+              "effectiveRent": 1720,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1730,
+              "effectiveRent": 1730,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1790,
+              "effectiveRent": 1790,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1800,
+              "effectiveRent": 1800,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1805,
+              "effectiveRent": 1805,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1825,
+              "effectiveRent": 1825,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1835,
+              "effectiveRent": 1835,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1930,
+              "effectiveRent": 1930,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1950,
+              "effectiveRent": 1950,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1970,
+              "effectiveRent": 1970,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2055,
+              "effectiveRent": 2055,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 2150,
+              "effectiveRent": 2150,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "B3R",
+          "bldg": "01",
+          "unit": "2008",
+          "key": "B3R-01-2008",
+          "status": "Vacant - Ready",
+          "sqft": 1245,
+          "availableDate": "Now",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 1720,
+              "effectiveRent": 1720,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 1730,
+              "effectiveRent": 1730,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 1790,
+              "effectiveRent": 1790,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 1800,
+              "effectiveRent": 1800,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 1805,
+              "effectiveRent": 1805,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 1815,
+              "effectiveRent": 1815,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 1825,
+              "effectiveRent": 1825,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 1835,
+              "effectiveRent": 1835,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 1930,
+              "effectiveRent": 1930,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 1950,
+              "effectiveRent": 1950,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 1970,
+              "effectiveRent": 1970,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2055,
+              "effectiveRent": 2055,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 2150,
+              "effectiveRent": 2150,
+              "concession": 0
+            }
+          ]
+        },
+        {
+          "floorplan": "C1R",
+          "bldg": "01",
+          "unit": "4010",
+          "key": "C1R-01-4010",
+          "status": "Vacant - Not Ready",
+          "sqft": 1435,
+          "availableDate": "Friday, July 17, 2026",
+          "pricing": [
+            {
+              "term": 15,
+              "rent": 2185,
+              "effectiveRent": 2185,
+              "concession": 0
+            },
+            {
+              "term": 14,
+              "rent": 2190,
+              "effectiveRent": 2190,
+              "concession": 0
+            },
+            {
+              "term": 8,
+              "rent": 2285,
+              "effectiveRent": 2285,
+              "concession": 0
+            },
+            {
+              "term": 7,
+              "rent": 2295,
+              "effectiveRent": 2295,
+              "concession": 0
+            },
+            {
+              "term": 6,
+              "rent": 2305,
+              "effectiveRent": 2305,
+              "concession": 0
+            },
+            {
+              "term": 13,
+              "rent": 2405,
+              "effectiveRent": 2405,
+              "concession": 0
+            },
+            {
+              "term": 5,
+              "rent": 2485,
+              "effectiveRent": 2485,
+              "concession": 0
+            },
+            {
+              "term": 10,
+              "rent": 2490,
+              "effectiveRent": 2490,
+              "concession": 0
+            },
+            {
+              "term": 9,
+              "rent": 2495,
+              "effectiveRent": 2495,
+              "concession": 0
+            },
+            {
+              "term": 3,
+              "rent": 2525,
+              "effectiveRent": 2525,
+              "concession": 0
+            },
+            {
+              "term": 12,
+              "rent": 2575,
+              "effectiveRent": 2575,
+              "concession": 0
+            },
+            {
+              "term": 11,
+              "rent": 2840,
+              "effectiveRent": 2840,
+              "concession": 0
+            },
+            {
+              "term": 4,
+              "rent": 2935,
+              "effectiveRent": 2935,
+              "concession": 0
+            }
+          ]
+        }
+      ],
+      "fpSummary": [
+        {
+          "floorplan": "A1P",
+          "vacantReady": 6,
+          "sqft": 950,
+          "avgRent12mo": 1534.17,
+          "minRent12mo": 1375,
+          "maxRent12mo": 1745
+        },
+        {
+          "floorplan": "A1R",
+          "vacantReady": 1,
+          "sqft": 950,
+          "avgRent12mo": 1490,
+          "minRent12mo": 1490,
+          "maxRent12mo": 1490
+        },
+        {
+          "floorplan": "B1P",
+          "vacantReady": 3,
+          "sqft": 1230,
+          "avgRent12mo": 1930,
+          "minRent12mo": 1865,
+          "maxRent12mo": 2060
+        },
+        {
+          "floorplan": "B1R",
+          "vacantReady": 1,
+          "sqft": 1230,
+          "avgRent12mo": 2015,
+          "minRent12mo": 2015,
+          "maxRent12mo": 2015
+        },
+        {
+          "floorplan": "B2P",
+          "vacantReady": 2,
+          "sqft": 1245,
+          "avgRent12mo": 1590,
+          "minRent12mo": 1430,
+          "maxRent12mo": 1750
+        },
+        {
+          "floorplan": "B2R",
+          "vacantReady": 1,
+          "sqft": 1245,
+          "avgRent12mo": 1600,
+          "minRent12mo": 1600,
+          "maxRent12mo": 1600
+        },
+        {
+          "floorplan": "B3P",
+          "vacantReady": 9,
+          "sqft": 1245,
+          "avgRent12mo": 1790.56,
+          "minRent12mo": 1430,
+          "maxRent12mo": 2005
+        },
+        {
+          "floorplan": "B3R",
+          "vacantReady": 2,
+          "sqft": 1245,
+          "avgRent12mo": 2055,
+          "minRent12mo": 2055,
+          "maxRent12mo": 2055
+        },
+        {
+          "floorplan": "C1R",
+          "vacantReady": 1,
+          "sqft": 1435,
+          "avgRent12mo": 2575,
+          "minRent12mo": 2575,
+          "maxRent12mo": 2575
+        }
+      ]
+    }
+  },
+  "history": [
+    {
+      "weekEnding": "7/5/2026",
+      "periodFrom": "6/29/2026",
+      "asOf": "7/7/2026",
+      "generatedAt": "2026-07-09T04:56:43.812Z",
+      "occupancy": {
+        "totalUnits": 410,
+        "occupied": 373,
+        "available": 18,
+        "physicalOccPct": 0.9098,
+        "pctMadeReady": 0.0556,
+        "moveIns": 3,
+        "moveOuts": 3,
+        "netChange": 0,
+        "noticeGiven": 1,
+        "avgRentInPlace": 1612.96,
+        "avgPSF": 1.402,
+        "vacantUnits": 26,
+        "exposurePct": 0.046341463414634146
+      },
+      "leasing": {
+        "prospects": 77,
+        "visits": 6,
+        "apps": 11,
+        "denials": 2,
+        "cancelledApps": 0,
+        "newLeases": 9,
+        "netLeases": 8,
+        "leasePerVisit": 1.3333333333333333,
+        "leasePerProspect": 0.1038961038961039
+      },
+      "renewals": {
+        "months": [
+          "July",
+          "August",
+          "September"
+        ],
+        "expirations": [
+          28,
+          34,
+          31,
+          17
+        ],
+        "offersMade": [
+          27,
+          34,
+          31,
+          0
+        ],
+        "committed": [
+          7,
+          0,
+          0,
+          0
+        ],
+        "ntv": [
+          6,
+          1,
+          0,
+          0
+        ],
+        "undecidedMTM": [
+          15,
+          33,
+          32,
+          0
+        ],
+        "renewalPct": [
+          0.25,
+          0,
+          0,
+          0
+        ],
+        "renewalPctCurrent": 0.25
+      },
+      "delinquency": {
+        "total": 106931.47,
+        "balance": 106857.3,
+        "current": 78375.73,
+        "month1": 18358.62,
+        "month2": 6117.56,
+        "month3": 1858.4,
+        "month4": 2221.16,
+        "over30": 28555.74
+      },
+      "workOrders": {
+        "total": 38,
+        "open": 27,
+        "completed": 11,
+        "backlog": 27
+      },
+      "financials": {
+        "periodThru": "7/31/2026",
+        "totalIncome": {
+          "code": "",
+          "name": "TOTAL INCOME",
+          "curActual": 606327.89,
+          "curBudget": 638514,
+          "curVar": -32186.11,
+          "ytdActual": 4303732.78,
+          "ytdBudget": 4421666,
+          "ytdVar": -117933.22,
+          "annualBudget": 7617152
+        },
+        "netRental": {
+          "code": "",
+          "name": "NET RENTAL INCOME",
+          "curActual": 548473.26,
+          "curBudget": 590066,
+          "curVar": -41592.74,
+          "ytdActual": 3952903.49,
+          "ytdBudget": 4091243,
+          "ytdVar": -138339.51,
+          "annualBudget": 7063275
+        },
+        "otherIncome": {
+          "code": "",
+          "name": "TOTAL OTHER INCOME",
+          "curActual": 59856.05,
+          "curBudget": 60698,
+          "curVar": -841.95,
+          "ytdActual": 427103.79,
+          "ytdBudget": 416173,
+          "ytdVar": 10930.79,
+          "annualBudget": 700877
+        },
+        "totalBadDebt": {
+          "code": "",
+          "name": "TOTAL BAD DEBT - NET",
+          "curActual": -2001.42,
+          "curBudget": -12250,
+          "curVar": 10248.58,
+          "ytdActual": -76274.5,
+          "ytdBudget": -85750,
+          "ytdVar": 9475.5,
+          "annualBudget": -147000
+        },
+        "totalOpEx": {
+          "code": "",
+          "name": "TOTAL OPERATING EXPENSES",
+          "curActual": 6840.03,
+          "curBudget": 278902,
+          "curVar": 272061.97,
+          "ytdActual": 1611349.72,
+          "ytdBudget": 1972702,
+          "ytdVar": 361352.28,
+          "annualBudget": 3373150
+        },
+        "noi": {
+          "code": "",
+          "name": "NET OPERATING INCOME",
+          "curActual": 599487.86,
+          "curBudget": 359612,
+          "curVar": 239875.86,
+          "ytdActual": 2692383.06,
+          "ytdBudget": 2448964,
+          "ytdVar": 243419.06,
+          "annualBudget": 4244002
+        },
+        "marketRent": {
+          "code": "HG1016",
+          "name": "MARKET RENT",
+          "curActual": 634822.05,
+          "curBudget": 653367,
+          "curVar": -18544.95,
+          "ytdActual": 4413245.38,
+          "ytdBudget": 4496419,
+          "ytdVar": -83173.62,
+          "annualBudget": 7743484
+        },
+        "vacancy": {
+          "code": "HG1020",
+          "name": "VACANCY",
+          "curActual": -62967.99,
+          "curBudget": -42178,
+          "curVar": -20789.99,
+          "ytdActual": -405280.26,
+          "ytdBudget": -311571,
+          "ytdVar": -93709.26,
+          "annualBudget": -523426
+        },
+        "expenseLines": [
+          {
+            "code": "",
+            "name": "TOTAL ADMIN. COSTS",
+            "curActual": 1118.16,
+            "curBudget": 8783,
+            "curVar": 7664.84,
+            "ytdActual": 52804.03,
+            "ytdBudget": 63460,
+            "ytdVar": 10655.97,
+            "annualBudget": 109648
+          },
+          {
+            "code": "",
+            "name": "TOTAL MANAGEMENT FEES",
+            "curActual": 0,
+            "curBudget": 19785,
+            "curVar": 19785,
+            "ytdActual": 115277.23,
+            "ytdBudget": 137059,
+            "ytdVar": 21781.77,
+            "annualBudget": 236073
+          },
+          {
+            "code": "",
+            "name": "TOTAL UTILITIES",
+            "curActual": 0,
+            "curBudget": 49172,
+            "curVar": 49172,
+            "ytdActual": 280782.03,
+            "ytdBudget": 342562,
+            "ytdVar": 61779.97,
+            "annualBudget": 586186
+          },
+          {
+            "code": "",
+            "name": "TOTAL CONTRACT REPAIRS",
+            "curActual": 970,
+            "curBudget": 18490,
+            "curVar": 17520,
+            "ytdActual": 112047.73,
+            "ytdBudget": 134020,
+            "ytdVar": 21972.27,
+            "annualBudget": 225320
+          }
+        ]
+      },
+      "balanceSheet": {
+        "totalAssets": 103857634.33,
+        "totalCurrentAssets": 3507980.25,
+        "cashOperating": -217378.43,
+        "arTenants": 129935.78,
+        "accountsPayable": 1020083.17,
+        "totalCurrentLiabilities": 2052217.43,
+        "totalLiabilities": 99230070.36,
+        "tenantSecurityDeposits": 165095.01,
+        "totalCapital": 4627563.97,
+        "operatingReserve": 399962.31
+      },
+      "forecast": [
+        {
+          "weekEnding": "7/12/2026",
+          "totalUnits": 410,
+          "occupied": 373,
+          "occPct": 0.9098,
+          "expMoveIns": 3,
+          "expMoveOuts": 1,
+          "expOccupied": 375,
+          "expOccPct": 0.9146
+        },
+        {
+          "weekEnding": "7/19/2026",
+          "totalUnits": 410,
+          "occupied": 375,
+          "occPct": 0.9146,
+          "expMoveIns": 7,
+          "expMoveOuts": 2,
+          "expOccupied": 380,
+          "expOccPct": 0.9268000000000001
+        },
+        {
+          "weekEnding": "7/26/2026",
+          "totalUnits": 410,
+          "occupied": 380,
+          "occPct": 0.9268,
+          "expMoveIns": 4,
+          "expMoveOuts": 0,
+          "expOccupied": 384,
+          "expOccPct": 0.9366
+        },
+        {
+          "weekEnding": "8/2/2026",
+          "totalUnits": 410,
+          "occupied": 384,
+          "occPct": 0.9366,
+          "expMoveIns": 1,
+          "expMoveOuts": 4,
+          "expOccupied": 381,
+          "expOccPct": 0.9293
+        },
+        {
+          "weekEnding": "8/9/2026",
+          "totalUnits": 410,
+          "occupied": 381,
+          "occPct": 0.9293,
+          "expMoveIns": 0,
+          "expMoveOuts": 0,
+          "expOccupied": 381,
+          "expOccPct": 0.9293
+        },
+        {
+          "weekEnding": "8/16/2026",
+          "totalUnits": 410,
+          "occupied": 381,
+          "occPct": 0.9293,
+          "expMoveIns": 2,
+          "expMoveOuts": 0,
+          "expOccupied": 383,
+          "expOccPct": 0.9340999999999999
+        },
+        {
+          "weekEnding": "8/23/2026",
+          "totalUnits": 410,
+          "occupied": 383,
+          "occPct": 0.9341,
+          "expMoveIns": 0,
+          "expMoveOuts": 0,
+          "expOccupied": 383,
+          "expOccPct": 0.9340999999999999
+        },
+        {
+          "weekEnding": "8/30/2026",
+          "totalUnits": 410,
+          "occupied": 383,
+          "occPct": 0.9341,
+          "expMoveIns": 0,
+          "expMoveOuts": 0,
+          "expOccupied": 383,
+          "expOccPct": 0.9340999999999999
+        }
+      ],
+      "moveOuts": [
+        {
+          "resident": "Garcia Martin, Maria",
+          "vacateDate": "6/30/2026",
+          "reason": "Skipped"
+        },
+        {
+          "resident": "Wharton, Laura",
+          "vacateDate": "6/30/2026",
+          "reason": "Job Transfer"
+        },
+        {
+          "resident": "Garrard, Rita",
+          "vacateDate": "6/30/2026",
+          "reason": "Financial Issues/Job Loss"
+        }
+      ],
+      "renewalsAnalysis": [
+        {
+          "month": "March",
+          "renewedLeases": 19,
+          "pctRenewed": 0.6552,
+          "avgOldLeaseRate": 1597,
+          "avgRenewalRate": 1618.05,
+          "avgIncrease": 21.05,
+          "pctIncrease": 0.0132,
+          "expirations": 29
+        },
+        {
+          "month": "April",
+          "renewedLeases": 35,
+          "pctRenewed": 0.7609,
+          "avgOldLeaseRate": 1531.26,
+          "avgRenewalRate": 1555.91,
+          "avgIncrease": 24.66,
+          "pctIncrease": 0.0161,
+          "expirations": 46
+        },
+        {
+          "month": "May",
+          "renewedLeases": 27,
+          "pctRenewed": 0.7297,
+          "avgOldLeaseRate": 1484.89,
+          "avgRenewalRate": 1510.67,
+          "avgIncrease": 25.78,
+          "pctIncrease": 0.0174,
+          "expirations": 37
+        },
+        {
+          "month": "June",
+          "renewedLeases": 17,
+          "pctRenewed": 0.6537999999999999,
+          "avgOldLeaseRate": 1553.06,
+          "avgRenewalRate": 1577.29,
+          "avgIncrease": 24.24,
+          "pctIncrease": 0.015600000000000001,
+          "expirations": 26
+        },
+        {
+          "month": "July",
+          "renewedLeases": 7,
+          "pctRenewed": 0.25,
+          "avgOldLeaseRate": 1467.71,
+          "avgRenewalRate": 1489.71,
+          "avgIncrease": 22,
+          "pctIncrease": 0.015,
+          "expirations": 28
+        }
+      ],
+      "ua": {
+        "units": [
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "1201",
+            "key": "A1P-01-1201",
+            "status": "Vacant - Not Ready",
+            "sqft": 950,
+            "availableDate": "Friday, July 17, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1275,
+                "effectiveRent": 1275,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1355,
+                "effectiveRent": 1355,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1365,
+                "effectiveRent": 1365,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1375,
+                "effectiveRent": 1375,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1440,
+                "effectiveRent": 1440,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "2106",
+            "key": "A1P-01-2106",
+            "status": "Vacant - Not Ready",
+            "sqft": 950,
+            "availableDate": "Friday, July 17, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1275,
+                "effectiveRent": 1275,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1355,
+                "effectiveRent": 1355,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1365,
+                "effectiveRent": 1365,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1375,
+                "effectiveRent": 1375,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1440,
+                "effectiveRent": 1440,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "4210",
+            "key": "A1P-01-4210",
+            "status": "Vacant - Not Ready",
+            "sqft": 950,
+            "availableDate": "Friday, July 24, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1310,
+                "effectiveRent": 1310,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1355,
+                "effectiveRent": 1355,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1365,
+                "effectiveRent": 1365,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1410,
+                "effectiveRent": 1410,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1475,
+                "effectiveRent": 1475,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1710,
+                "effectiveRent": 1710,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "2805",
+            "key": "A1P-01-2805",
+            "status": "On Notice",
+            "sqft": 950,
+            "availableDate": "Friday, July 31, 2026",
+            "pricing": [
+              {
+                "term": 10,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 15,
+                "rent": 1335,
+                "effectiveRent": 1335,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1340,
+                "effectiveRent": 1340,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1360,
+                "effectiveRent": 1360,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1400,
+                "effectiveRent": 1400,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1745,
+                "effectiveRent": 1745,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "1701",
+            "key": "A1P-01-1701",
+            "status": "On Notice",
+            "sqft": 950,
+            "availableDate": "Friday, August 14, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1260,
+                "effectiveRent": 1260,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1265,
+                "effectiveRent": 1265,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1360,
+                "effectiveRent": 1360,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1400,
+                "effectiveRent": 1400,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1425,
+                "effectiveRent": 1425,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1P",
+            "bldg": "01",
+            "unit": "1404",
+            "key": "A1P-01-1404",
+            "status": "On Notice",
+            "sqft": 950,
+            "availableDate": "Friday, August 21, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1260,
+                "effectiveRent": 1260,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1265,
+                "effectiveRent": 1265,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1320,
+                "effectiveRent": 1320,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1330,
+                "effectiveRent": 1330,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1360,
+                "effectiveRent": 1360,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1400,
+                "effectiveRent": 1400,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1425,
+                "effectiveRent": 1425,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1450,
+                "effectiveRent": 1450,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1465,
+                "effectiveRent": 1465,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1685,
+                "effectiveRent": 1685,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "A1R",
+            "bldg": "01",
+            "unit": "1406",
+            "key": "A1R-01-1406",
+            "status": "Vacant - Not Ready",
+            "sqft": 950,
+            "availableDate": "Friday, July 10, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1395,
+                "effectiveRent": 1395,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1445,
+                "effectiveRent": 1445,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1455,
+                "effectiveRent": 1455,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1480,
+                "effectiveRent": 1480,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1490,
+                "effectiveRent": 1490,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1490,
+                "effectiveRent": 1490,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1555,
+                "effectiveRent": 1555,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1555,
+                "effectiveRent": 1555,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1590,
+                "effectiveRent": 1590,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1610,
+                "effectiveRent": 1610,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1780,
+                "effectiveRent": 1780,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1810,
+                "effectiveRent": 1810,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B1P",
+            "bldg": "01",
+            "unit": "0706",
+            "key": "B1P-01-0706",
+            "status": "Vacant - Not Ready",
+            "sqft": 1230,
+            "availableDate": "Thursday, July 9, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1615,
+                "effectiveRent": 1615,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1620,
+                "effectiveRent": 1620,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1695,
+                "effectiveRent": 1695,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1705,
+                "effectiveRent": 1705,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1805,
+                "effectiveRent": 1805,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1855,
+                "effectiveRent": 1855,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1865,
+                "effectiveRent": 1865,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1870,
+                "effectiveRent": 1870,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 2050,
+                "effectiveRent": 2050,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 2065,
+                "effectiveRent": 2065,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 2265,
+                "effectiveRent": 2265,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B1P",
+            "bldg": "01",
+            "unit": "2310",
+            "key": "B1P-01-2310",
+            "status": "Vacant - Not Ready",
+            "sqft": 1230,
+            "availableDate": "Friday, July 24, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1615,
+                "effectiveRent": 1615,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1620,
+                "effectiveRent": 1620,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1695,
+                "effectiveRent": 1695,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1705,
+                "effectiveRent": 1705,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1805,
+                "effectiveRent": 1805,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1855,
+                "effectiveRent": 1855,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1865,
+                "effectiveRent": 1865,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1870,
+                "effectiveRent": 1870,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 2050,
+                "effectiveRent": 2050,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 2065,
+                "effectiveRent": 2065,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 2265,
+                "effectiveRent": 2265,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B1P",
+            "bldg": "01",
+            "unit": "2304",
+            "key": "B1P-01-2304",
+            "status": "Vacant - Not Ready",
+            "sqft": 1230,
+            "availableDate": "Friday, July 31, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1615,
+                "effectiveRent": 1615,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1620,
+                "effectiveRent": 1620,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1695,
+                "effectiveRent": 1695,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1800,
+                "effectiveRent": 1800,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1810,
+                "effectiveRent": 1810,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1855,
+                "effectiveRent": 1855,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1870,
+                "effectiveRent": 1870,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1895,
+                "effectiveRent": 1895,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1895,
+                "effectiveRent": 1895,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2060,
+                "effectiveRent": 2060,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 2060,
+                "effectiveRent": 2060,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B1R",
+            "bldg": "01",
+            "unit": "0306",
+            "key": "B1R-01-0306",
+            "status": "Vacant - Not Ready",
+            "sqft": 1230,
+            "availableDate": "Friday, July 17, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1765,
+                "effectiveRent": 1765,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1770,
+                "effectiveRent": 1770,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1845,
+                "effectiveRent": 1845,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1855,
+                "effectiveRent": 1855,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1945,
+                "effectiveRent": 1945,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1955,
+                "effectiveRent": 1955,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1965,
+                "effectiveRent": 1965,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 2005,
+                "effectiveRent": 2005,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2015,
+                "effectiveRent": 2015,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 2020,
+                "effectiveRent": 2020,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 2200,
+                "effectiveRent": 2200,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 2215,
+                "effectiveRent": 2215,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 2415,
+                "effectiveRent": 2415,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B2P",
+            "bldg": "01",
+            "unit": "3609",
+            "key": "B2P-01-3609",
+            "status": "On Notice",
+            "sqft": 1245,
+            "availableDate": "Monday, July 20, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1415,
+                "effectiveRent": 1415,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1425,
+                "effectiveRent": 1425,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1495,
+                "effectiveRent": 1495,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1500,
+                "effectiveRent": 1500,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1520,
+                "effectiveRent": 1520,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1530,
+                "effectiveRent": 1530,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1750,
+                "effectiveRent": 1750,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1845,
+                "effectiveRent": 1845,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B2P",
+            "bldg": "01",
+            "unit": "2909",
+            "key": "B2P-01-2909",
+            "status": "On Notice",
+            "sqft": 1245,
+            "availableDate": "Friday, July 31, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1415,
+                "effectiveRent": 1415,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1420,
+                "effectiveRent": 1420,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1495,
+                "effectiveRent": 1495,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1500,
+                "effectiveRent": 1500,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1525,
+                "effectiveRent": 1525,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1850,
+                "effectiveRent": 1850,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B2R",
+            "bldg": "01",
+            "unit": "3606",
+            "key": "B2R-01-3606",
+            "status": "Vacant - Not Ready",
+            "sqft": 1245,
+            "availableDate": "Friday, July 31, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1585,
+                "effectiveRent": 1585,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1590,
+                "effectiveRent": 1590,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1600,
+                "effectiveRent": 1600,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1655,
+                "effectiveRent": 1655,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1695,
+                "effectiveRent": 1695,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1835,
+                "effectiveRent": 1835,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1985,
+                "effectiveRent": 1985,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 2020,
+                "effectiveRent": 2020,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "2001",
+            "key": "B3P-01-2001",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1900,
+                "effectiveRent": 1900,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1995,
+                "effectiveRent": 1995,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "2002",
+            "key": "B3P-01-2002",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1900,
+                "effectiveRent": 1900,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1995,
+                "effectiveRent": 1995,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "2003",
+            "key": "B3P-01-2003",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1900,
+                "effectiveRent": 1900,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1995,
+                "effectiveRent": 1995,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "2004",
+            "key": "B3P-01-2004",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1900,
+                "effectiveRent": 1900,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1995,
+                "effectiveRent": 1995,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "2005",
+            "key": "B3P-01-2005",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1900,
+                "effectiveRent": 1900,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1995,
+                "effectiveRent": 1995,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "4604",
+            "key": "B3P-01-4604",
+            "status": "Vacant - Not Ready",
+            "sqft": 1245,
+            "availableDate": "Friday, July 24, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1415,
+                "effectiveRent": 1415,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1425,
+                "effectiveRent": 1425,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1495,
+                "effectiveRent": 1495,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1500,
+                "effectiveRent": 1500,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1520,
+                "effectiveRent": 1520,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1530,
+                "effectiveRent": 1530,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1750,
+                "effectiveRent": 1750,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1845,
+                "effectiveRent": 1845,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "4601",
+            "key": "B3P-01-4601",
+            "status": "Vacant - Not Ready",
+            "sqft": 1245,
+            "availableDate": "Friday, July 31, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1415,
+                "effectiveRent": 1415,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1420,
+                "effectiveRent": 1420,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1495,
+                "effectiveRent": 1495,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1500,
+                "effectiveRent": 1500,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1525,
+                "effectiveRent": 1525,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1850,
+                "effectiveRent": 1850,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "3201",
+            "key": "B3P-01-3201",
+            "status": "On Notice",
+            "sqft": 1245,
+            "availableDate": "Friday, August 14, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1415,
+                "effectiveRent": 1415,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1420,
+                "effectiveRent": 1420,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 1430,
+                "effectiveRent": 1430,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1485,
+                "effectiveRent": 1485,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1495,
+                "effectiveRent": 1495,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1500,
+                "effectiveRent": 1500,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1510,
+                "effectiveRent": 1510,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1525,
+                "effectiveRent": 1525,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1625,
+                "effectiveRent": 1625,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1645,
+                "effectiveRent": 1645,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1665,
+                "effectiveRent": 1665,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1850,
+                "effectiveRent": 1850,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3P",
+            "bldg": "01",
+            "unit": "0907",
+            "key": "B3P-01-0907",
+            "status": "On Notice",
+            "sqft": 1245,
+            "availableDate": "Friday, September 18, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1565,
+                "effectiveRent": 1565,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 1570,
+                "effectiveRent": 1570,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1575,
+                "effectiveRent": 1575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1635,
+                "effectiveRent": 1635,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1650,
+                "effectiveRent": 1650,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1660,
+                "effectiveRent": 1660,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1670,
+                "effectiveRent": 1670,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1680,
+                "effectiveRent": 1680,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1775,
+                "effectiveRent": 1775,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1795,
+                "effectiveRent": 1795,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1980,
+                "effectiveRent": 1980,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2005,
+                "effectiveRent": 2005,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3R",
+            "bldg": "01",
+            "unit": "2006",
+            "key": "B3R-01-2006",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1720,
+                "effectiveRent": 1720,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1730,
+                "effectiveRent": 1730,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1790,
+                "effectiveRent": 1790,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1800,
+                "effectiveRent": 1800,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1805,
+                "effectiveRent": 1805,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1825,
+                "effectiveRent": 1825,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1835,
+                "effectiveRent": 1835,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1930,
+                "effectiveRent": 1930,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1950,
+                "effectiveRent": 1950,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1970,
+                "effectiveRent": 1970,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2055,
+                "effectiveRent": 2055,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 2150,
+                "effectiveRent": 2150,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "B3R",
+            "bldg": "01",
+            "unit": "2008",
+            "key": "B3R-01-2008",
+            "status": "Vacant - Ready",
+            "sqft": 1245,
+            "availableDate": "Now",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 1720,
+                "effectiveRent": 1720,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 1730,
+                "effectiveRent": 1730,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 1790,
+                "effectiveRent": 1790,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 1800,
+                "effectiveRent": 1800,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 1805,
+                "effectiveRent": 1805,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 1815,
+                "effectiveRent": 1815,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 1825,
+                "effectiveRent": 1825,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 1835,
+                "effectiveRent": 1835,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 1930,
+                "effectiveRent": 1930,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 1950,
+                "effectiveRent": 1950,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 1970,
+                "effectiveRent": 1970,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2055,
+                "effectiveRent": 2055,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 2150,
+                "effectiveRent": 2150,
+                "concession": 0
+              }
+            ]
+          },
+          {
+            "floorplan": "C1R",
+            "bldg": "01",
+            "unit": "4010",
+            "key": "C1R-01-4010",
+            "status": "Vacant - Not Ready",
+            "sqft": 1435,
+            "availableDate": "Friday, July 17, 2026",
+            "pricing": [
+              {
+                "term": 15,
+                "rent": 2185,
+                "effectiveRent": 2185,
+                "concession": 0
+              },
+              {
+                "term": 14,
+                "rent": 2190,
+                "effectiveRent": 2190,
+                "concession": 0
+              },
+              {
+                "term": 8,
+                "rent": 2285,
+                "effectiveRent": 2285,
+                "concession": 0
+              },
+              {
+                "term": 7,
+                "rent": 2295,
+                "effectiveRent": 2295,
+                "concession": 0
+              },
+              {
+                "term": 6,
+                "rent": 2305,
+                "effectiveRent": 2305,
+                "concession": 0
+              },
+              {
+                "term": 13,
+                "rent": 2405,
+                "effectiveRent": 2405,
+                "concession": 0
+              },
+              {
+                "term": 5,
+                "rent": 2485,
+                "effectiveRent": 2485,
+                "concession": 0
+              },
+              {
+                "term": 10,
+                "rent": 2490,
+                "effectiveRent": 2490,
+                "concession": 0
+              },
+              {
+                "term": 9,
+                "rent": 2495,
+                "effectiveRent": 2495,
+                "concession": 0
+              },
+              {
+                "term": 3,
+                "rent": 2525,
+                "effectiveRent": 2525,
+                "concession": 0
+              },
+              {
+                "term": 12,
+                "rent": 2575,
+                "effectiveRent": 2575,
+                "concession": 0
+              },
+              {
+                "term": 11,
+                "rent": 2840,
+                "effectiveRent": 2840,
+                "concession": 0
+              },
+              {
+                "term": 4,
+                "rent": 2935,
+                "effectiveRent": 2935,
+                "concession": 0
+              }
+            ]
+          }
+        ],
+        "fpSummary": [
+          {
+            "floorplan": "A1P",
+            "vacantReady": 6,
+            "sqft": 950,
+            "avgRent12mo": 1534.17,
+            "minRent12mo": 1375,
+            "maxRent12mo": 1745
+          },
+          {
+            "floorplan": "A1R",
+            "vacantReady": 1,
+            "sqft": 950,
+            "avgRent12mo": 1490,
+            "minRent12mo": 1490,
+            "maxRent12mo": 1490
+          },
+          {
+            "floorplan": "B1P",
+            "vacantReady": 3,
+            "sqft": 1230,
+            "avgRent12mo": 1930,
+            "minRent12mo": 1865,
+            "maxRent12mo": 2060
+          },
+          {
+            "floorplan": "B1R",
+            "vacantReady": 1,
+            "sqft": 1230,
+            "avgRent12mo": 2015,
+            "minRent12mo": 2015,
+            "maxRent12mo": 2015
+          },
+          {
+            "floorplan": "B2P",
+            "vacantReady": 2,
+            "sqft": 1245,
+            "avgRent12mo": 1590,
+            "minRent12mo": 1430,
+            "maxRent12mo": 1750
+          },
+          {
+            "floorplan": "B2R",
+            "vacantReady": 1,
+            "sqft": 1245,
+            "avgRent12mo": 1600,
+            "minRent12mo": 1600,
+            "maxRent12mo": 1600
+          },
+          {
+            "floorplan": "B3P",
+            "vacantReady": 9,
+            "sqft": 1245,
+            "avgRent12mo": 1790.56,
+            "minRent12mo": 1430,
+            "maxRent12mo": 2005
+          },
+          {
+            "floorplan": "B3R",
+            "vacantReady": 2,
+            "sqft": 1245,
+            "avgRent12mo": 2055,
+            "minRent12mo": 2055,
+            "maxRent12mo": 2055
+          },
+          {
+            "floorplan": "C1R",
+            "vacantReady": 1,
+            "sqft": 1435,
+            "avgRent12mo": 2575,
+            "minRent12mo": 2575,
+            "maxRent12mo": 2575
+          }
+        ]
+      }
+    }
+  ]
+}

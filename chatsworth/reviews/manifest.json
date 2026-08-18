@@ -1,0 +1,6 @@
+{
+  "_comment": "Chatsworth review snapshots (Google + other platforms). Add a new dated folder under public/chatsworth/reviews/ then list it here. Folder name format: MM_DD_YYYY (snapshot date).",
+  "snapshots": [
+    "07_27_2026"
+  ]
+}
